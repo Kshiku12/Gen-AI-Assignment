@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Large model checkpoints and HuggingFace cache (keep directory structure and config metadata)
+checkpoints/*.pt
+checkpoints/*.bin
+checkpoints/*.safetensors
+checkpoints/mt5_finetuned/
+checkpoints/llama_lora/
+checkpoints/gemma_lora/
+hf_cache/
+
+# Raw large archives
+data/raw/*.zip
+data/raw/*.tar.gz
+data/raw/*.txt
+results/pipeline_cache.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+

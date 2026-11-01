@@ -1,0 +1,21 @@
+{
+  "dataset_name": "Tatoeba English-French Parallel Corpus (ManyThings.org / Tatoeba Project)",
+  "source_url": "https://www.manythings.org/anki/fra-eng.zip (Mirror: https://huggingface.co/datasets/Helsinki-NLP/opus-100)",
+  "backup_url": "https://huggingface.co/datasets/Helsinki-NLP/opus-100",
+  "source_language": "English (en)",
+  "target_language": "French (fr)",
+  "raw_pairs_count": 240521,
+  "cleaned_pairs_count": 148398,
+  "total_selected": 12000,
+  "train_size": 9600,
+  "val_size": 1200,
+  "test_size": 1200,
+  "en_vocab_size": 2645,
+  "fr_vocab_size": 3187,
+  "en_token_coverage_pct": 94.85,
+  "fr_token_coverage_pct": 92.56,
+  "avg_en_tokens": 7.75,
+  "avg_fr_tokens": 8.56,
+  "max_en_tokens": 22,
+  "max_fr_tokens": 26
+}

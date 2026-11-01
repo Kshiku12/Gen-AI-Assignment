@@ -1,0 +1,327 @@
+[
+  {
+    "index": 1,
+    "source_en": "The river flooded the entire area.",
+    "reference_fr": "La rivière a inondé toute la zone.",
+    "translations": {
+      "Basic Transformer": "La rivière <unk> du magasin.",
+      "mT5-small": "La rivière a éteint la partie du tout.",
+      "LLaMA-3.2-1B (Prompting)": "La rivière a inondé tout l'aire.",
+      "LLaMA-3.2-1B": "Le fleuve a dévasté tout l'arrière-pays.",
+      "Gemma-3-1B (Prompting)": "La rivière a envahi tout le secteur.",
+      "Gemma-3-1B": "La rivière a envahi toute la zone."
+    }
+  },
+  {
+    "index": 2,
+    "source_en": "Is this the only picture of her you have?",
+    "reference_fr": "Est-ce la seule photo d'elle que tu as?",
+    "translations": {
+      "Basic Transformer": "Est-ce que c'est la photo que tu as à son image?",
+      "mT5-small": "Est-ce la seule photo que tu as ?",
+      "LLaMA-3.2-1B (Prompting)": "Est-ce la seule photo de elle que vous avez ?",
+      "LLaMA-3.2-1B": "Est-ce la seule image de lui que vous avez ?",
+      "Gemma-3-1B (Prompting)": "Est-ce que c'est la seule photo de sa femme que vous avez ?",
+      "Gemma-3-1B": "Est-ce la seule image de toi que tu as ?"
+    }
+  },
+  {
+    "index": 3,
+    "source_en": "I know Tom is a bit chubby.",
+    "reference_fr": "Je sais que Tom est un peu enveloppé.",
+    "translations": {
+      "Basic Transformer": "Je sais que tom est un peu <unk>.",
+      "mT5-small": "Je sais que Tom est un peu inquiet.",
+      "LLaMA-3.2-1B (Prompting)": "Je sais que Tom est un peu fleschié.",
+      "LLaMA-3.2-1B": "Je sais que Tom est un peu gras.",
+      "Gemma-3-1B (Prompting)": "Je sais que Tom est un peu rond.",
+      "Gemma-3-1B": "Je sais que Tom est un peu rond."
+    }
+  },
+  {
+    "index": 4,
+    "source_en": "Can you translate this for me?",
+    "reference_fr": "Est-ce que vous pouvez traduire ça pour moi ?",
+    "translations": {
+      "Basic Transformer": "Peux-tu me <unk> ceci?",
+      "mT5-small": "Puis-tu me faire ça pour moi ?",
+      "LLaMA-3.2-1B (Prompting)": "Pouvez-vous m'expliquer cela ?",
+      "LLaMA-3.2-1B": "Puis-je t'aider à traduire cela ?",
+      "Gemma-3-1B (Prompting)": "Pouvez-vous traduire ceci pour moi ?",
+      "Gemma-3-1B": "Pourrais-tu traduire ceci pour moi ?"
+    }
+  },
+  {
+    "index": 5,
+    "source_en": "I think that Tom lied to us.",
+    "reference_fr": "Je crois que Tom nous a menti.",
+    "translations": {
+      "Basic Transformer": "Je pense que tom nous a menti.",
+      "mT5-small": "Je pense que Tom nous a dit.",
+      "LLaMA-3.2-1B (Prompting)": "Je pense que Tom a menti à nous.",
+      "LLaMA-3.2-1B": "Je pense que Tom a menti à nous.",
+      "Gemma-3-1B (Prompting)": "Je pense que Tom nous a menti.",
+      "Gemma-3-1B": "Je pense que Tom nous a menti."
+    }
+  },
+  {
+    "index": 6,
+    "source_en": "My camera can shoot high-definition video.",
+    "reference_fr": "Ma caméra peut prendre des vidéos haute-définition.",
+    "translations": {
+      "Basic Transformer": "Mon appareil photo peut <unk> la vidéo.",
+      "mT5-small": "Mon appareil photo peut shooter une video haute.",
+      "LLaMA-3.2-1B (Prompting)": "Mon appareil photo peut enregistrer des vidéos de haute définition.",
+      "LLaMA-3.2-1B": "Mon appareil photo peut prendre des vidéos de haute définition.",
+      "Gemma-3-1B (Prompting)": "Mon appareil photo peut enregistrer des vidéos haute définition.",
+      "Gemma-3-1B": "Mon appareil photo peut enregistrer des vidéos haute définition."
+    }
+  },
+  {
+    "index": 7,
+    "source_en": "How old are Tom and Mary?",
+    "reference_fr": "Quel âge ont Tom et Marie ?",
+    "translations": {
+      "Basic Transformer": "Quel âge a tom et marie?",
+      "mT5-small": "Combien de jeunes sont Tom et Marie ?",
+      "LLaMA-3.2-1B (Prompting)": "Combien âgés sont Tom et Mary ?",
+      "LLaMA-3.2-1B": "Quels âges ont Tom et Mary ?",
+      "Gemma-3-1B (Prompting)": "Quel âge ont Tom et Mary ?",
+      "Gemma-3-1B": "Combien de temps sont Tom et Mary ?"
+    }
+  },
+  {
+    "index": 8,
+    "source_en": "If you've got something to say, just say it.",
+    "reference_fr": "Si tu as quelque chose à dire, dis-le.",
+    "translations": {
+      "Basic Transformer": "Si tu as quelque chose à dire, dis-le.",
+      "mT5-small": "Si tu as quelque chose de dire, je te dis.",
+      "LLaMA-3.2-1B (Prompting)": "Si vous avez quelque chose à dire, dites-le.",
+      "LLaMA-3.2-1B": "Si tu veux dire quelque chose, dis-le.",
+      "Gemma-3-1B (Prompting)": "Si vous avez quelque chose à dire, dites-le.",
+      "Gemma-3-1B": "Si tu as quelque chose à dire, dis-le."
+    }
+  },
+  {
+    "index": 9,
+    "source_en": "When was Tom hired?",
+    "reference_fr": "Quand Tom a-t-il été embauché ?",
+    "translations": {
+      "Basic Transformer": "Quand tom a été <unk>?",
+      "mT5-small": "Quand Tom a été employé ?",
+      "LLaMA-3.2-1B (Prompting)": "Quand a été embauché Tom ?",
+      "LLaMA-3.2-1B": "Quand a été Tom embauché ?",
+      "Gemma-3-1B (Prompting)": "Quand Tom a-t-il été embauché ?",
+      "Gemma-3-1B": "Quand Tom a-t-il été embauché ?"
+    }
+  },
+  {
+    "index": 10,
+    "source_en": "He called his mother up from the airport.",
+    "reference_fr": "Il a appelé sa mère depuis l'aéroport.",
+    "translations": {
+      "Basic Transformer": "Il a appelé sa mère pour l'aéroport.",
+      "mT5-small": "Il a appelé sa mère au avion.",
+      "LLaMA-3.2-1B (Prompting)": "Il a appelé sa mère de l'aéroport.",
+      "LLaMA-3.2-1B": "Il a appelé sa mère à l'aéroport.",
+      "Gemma-3-1B (Prompting)": "Il a appelé sa mère par téléphone de l'aéroport.",
+      "Gemma-3-1B": "Il a appelé sa mère duaéroport."
+    }
+  },
+  {
+    "index": 11,
+    "source_en": "I just wanted to make sure you were OK.",
+    "reference_fr": "Je voulais juste m'assurer que tu allais bien.",
+    "translations": {
+      "Basic Transformer": "Je voulais juste vous voir avec vous.",
+      "mT5-small": "Je voulais juste vous faire sûr que tu as été OK.",
+      "LLaMA-3.2-1B (Prompting)": "Je voulais juste vous assurer que vous étiez bien.",
+      "LLaMA-3.2-1B": "Je voulais juste vous assurer que vous étiez en bon état.",
+      "Gemma-3-1B (Prompting)": "Je voulais juste vous assurer que vous étiez en bonne santé.",
+      "Gemma-3-1B": "Je voulais juste m'assurer que tu étais en forme."
+    }
+  },
+  {
+    "index": 12,
+    "source_en": "And he let the two men sleep at his home.",
+    "reference_fr": "Et il a laissé les deux hommes dormir chez lui.",
+    "translations": {
+      "Basic Transformer": "Et il a laissé deux hommes à la maison du <unk>.",
+      "mT5-small": "Il a laissé les deux hommes dormint dans sa maison.",
+      "LLaMA-3.2-1B (Prompting)": "Et il a laissé les deux hommes dormir chez lui.",
+      "LLaMA-3.2-1B": "Et il les a laissés dormir chez lui.",
+      "Gemma-3-1B (Prompting)": "Il a laissé les deux hommes dormir chez lui.",
+      "Gemma-3-1B": "Et il leur a laissé dormir chez lui."
+    }
+  },
+  {
+    "index": 13,
+    "source_en": "My dog often lies on the grass.",
+    "reference_fr": "Mon chien se couche souvent sur la pelouse.",
+    "translations": {
+      "Basic Transformer": "Mon chien a souvent un peu d'herbe.",
+      "mT5-small": "Mon chien vit souvent sur la grasse.",
+      "LLaMA-3.2-1B (Prompting)": "Mon chien dort souvent sur le sol.",
+      "LLaMA-3.2-1B": "Mon chien se réveille souvent sur le sol.",
+      "Gemma-3-1B (Prompting)": "Mon chien dort souvent sur l'herbe.",
+      "Gemma-3-1B": "Mon chien se trouve souvent sur l'herbe."
+    }
+  },
+  {
+    "index": 14,
+    "source_en": "I can recall nothing worse.",
+    "reference_fr": "Je ne peux me rappeler rien de pire.",
+    "translations": {
+      "Basic Transformer": "Je peux ne <unk> rien.",
+      "mT5-small": "Je peux répondre à rien de mal.",
+      "LLaMA-3.2-1B (Prompting)": "Je me souviens de rien de plus dérangeant.",
+      "LLaMA-3.2-1B": "Je ne peux rien d'autre dire.",
+      "Gemma-3-1B (Prompting)": "Je ne me souviens de rien de pire.",
+      "Gemma-3-1B": "Je n'ai rien de plus mauvais en mémoire."
+    }
+  },
+  {
+    "index": 15,
+    "source_en": "I'll manage on my own.",
+    "reference_fr": "Je me débrouillerai tout seul.",
+    "translations": {
+      "Basic Transformer": "Je vais me fier à ma propre.",
+      "mT5-small": "Je l'ai manager sur mes propres.",
+      "LLaMA-3.2-1B (Prompting)": "Je vais m'occuper d'ici.",
+      "LLaMA-3.2-1B": "Je vais faire tout seul.",
+      "Gemma-3-1B (Prompting)": "Je peux gérer tout seul(e).",
+      "Gemma-3-1B": "Je vais gérer tout seul."
+    }
+  },
+  {
+    "index": 16,
+    "source_en": "It's heavy, but I can manage it.",
+    "reference_fr": "C'est lourd, mais je peux m'en sortir.",
+    "translations": {
+      "Basic Transformer": "C'est un miracle, mais je peux le croire.",
+      "mT5-small": "C'est fort, mais je peux le faire.",
+      "LLaMA-3.2-1B (Prompting)": "C'est lourd, mais je peux le faire.",
+      "LLaMA-3.2-1B": "C'est lourd, mais je peux le faire.",
+      "Gemma-3-1B (Prompting)": "C'est lourd, mais je peux le gérer.",
+      "Gemma-3-1B": "C'est lourd, mais je peux le gérer."
+    }
+  },
+  {
+    "index": 17,
+    "source_en": "When do I need to hand in the report?",
+    "reference_fr": "Quand dois-je remettre le rapport ?",
+    "translations": {
+      "Basic Transformer": "Quand dois-je faire du rapport de la rapport?",
+      "mT5-small": "Quand as-je besoin de la main dans le rapport ?",
+      "LLaMA-3.2-1B (Prompting)": "Quand je dois me rendre au rapport ?",
+      "LLaMA-3.2-1B": "Quand dois-je remettre le rapport ?",
+      "Gemma-3-1B (Prompting)": "Quand dois-je soumettre le rapport ?",
+      "Gemma-3-1B": "Quand dois-je soumettre le rapport ?"
+    }
+  },
+  {
+    "index": 18,
+    "source_en": "Unless it's something fairly impressive, I won't remember it.",
+    "reference_fr": "À moins que ce soit quelque chose d'assez impressionnant, je ne m'en souviendrai pas.",
+    "translations": {
+      "Basic Transformer": "L'enfant, <unk> quelque chose, je ne <unk> pas.",
+      "mT5-small": "Un peu à fait immédiatement impressionné, je ne le me souviens pas.",
+      "LLaMA-3.2-1B (Prompting)": "Sauf si c'est quelque chose de vraiment impressionnant, je ne me souviendrai pas de cela.",
+      "LLaMA-3.2-1B": "Sauf si c'est vraiment impressionnant, je ne me souviendrai pas.",
+      "Gemma-3-1B (Prompting)": "Sauf que ce n'est pas quelque chose de très impressionnant, je ne me souviendrai pas.",
+      "Gemma-3-1B": "S'il n'est pas vraiment impressionnant, je ne le me souviendrai pas."
+    }
+  },
+  {
+    "index": 19,
+    "source_en": "I hope you understand.",
+    "reference_fr": "J'espère que tu comprendras.",
+    "translations": {
+      "Basic Transformer": "J'espère que tu comprends.",
+      "mT5-small": "J'espère que tu comprends.",
+      "LLaMA-3.2-1B (Prompting)": "Je hâte que vous compreniez.",
+      "LLaMA-3.2-1B": "Je hâte que vous compreniez.",
+      "Gemma-3-1B (Prompting)": "J'espère que vous comprenez.",
+      "Gemma-3-1B": "J'espère que tu comprends."
+    }
+  },
+  {
+    "index": 20,
+    "source_en": "I haven't been outside in a long time.",
+    "reference_fr": "Je n'ai pas mis le pied dehors depuis des lustres.",
+    "translations": {
+      "Basic Transformer": "Je n'ai pas été dehors en temps.",
+      "mT5-small": "Je n'ai pas été en retard dans longtemps.",
+      "LLaMA-3.2-1B (Prompting)": "Je n'ai pas été hors de chez moi depuis longtemps.",
+      "LLaMA-3.2-1B": "Je n'ai pas été hors de chez moi depuis longtemps.",
+      "Gemma-3-1B (Prompting)": "Je ne suis pas sorti(e) depuis longtemps.",
+      "Gemma-3-1B": "Je n'ai pas été dehors depuis longtemps."
+    }
+  },
+  {
+    "index": 21,
+    "source_en": "I don't know who I am anymore.",
+    "reference_fr": "Je ne sais plus qui je suis.",
+    "translations": {
+      "Basic Transformer": "Je ne sais plus qui je suis plus.",
+      "mT5-small": "Je ne sais plus qui je suis plus.",
+      "LLaMA-3.2-1B (Prompting)": "Je ne sais pas qui je suis plus.",
+      "LLaMA-3.2-1B": "Je ne sais pas qui je suis plus.",
+      "Gemma-3-1B (Prompting)": "Je ne sais plus qui je suis.",
+      "Gemma-3-1B": "Je ne sais plus qui je suis."
+    }
+  },
+  {
+    "index": 22,
+    "source_en": "Try resting for now.",
+    "reference_fr": "Essayez de vous reposer pour l'instant.",
+    "translations": {
+      "Basic Transformer": "Essaie de <unk> maintenant.",
+      "mT5-small": "Preussis à reposer maintenant.",
+      "LLaMA-3.2-1B (Prompting)": "Essayez de vous reposer maintenant.",
+      "LLaMA-3.2-1B": "Essayez de vous reposer maintenant.",
+      "Gemma-3-1B (Prompting)": "Essaie de te reposer pour l'instant.",
+      "Gemma-3-1B": "Essaie de te reposer pour le moment."
+    }
+  },
+  {
+    "index": 23,
+    "source_en": "It's not quite ready yet.",
+    "reference_fr": "Ce n'est pas encore tout à fait prêt.",
+    "translations": {
+      "Basic Transformer": "Ce n'est pas encore prêt.",
+      "mT5-small": "Ce n'est pas encore ready.",
+      "LLaMA-3.2-1B (Prompting)": "C'est pas encore prêt.",
+      "LLaMA-3.2-1B": "Il n'est pas encore prêt.",
+      "Gemma-3-1B (Prompting)": "Ce n'est pas encore prêt.",
+      "Gemma-3-1B": "Ce n'est pas encore tout prêt."
+    }
+  },
+  {
+    "index": 24,
+    "source_en": "Are you about to do that?",
+    "reference_fr": "Tu es sur le point de le faire ?",
+    "translations": {
+      "Basic Transformer": "Es-tu au courant de ça?",
+      "mT5-small": "Est-ce que tu es sur le point de faire ça ?",
+      "LLaMA-3.2-1B (Prompting)": "Est-ce que vous allez faire ça ?",
+      "LLaMA-3.2-1B": "Est-ce que tu vas à faire ça ?",
+      "Gemma-3-1B (Prompting)": "Êtes-vous sur le point de faire ça ?",
+      "Gemma-3-1B": "Es-tu sur le point de le faire ?"
+    }
+  },
+  {
+    "index": 25,
+    "source_en": "Tom doesn't trust us.",
+    "reference_fr": "Tom ne nous fait pas confiance.",
+    "translations": {
+      "Basic Transformer": "Tom ne nous <unk> pas.",
+      "mT5-small": "Tom ne nous confiance pas.",
+      "LLaMA-3.2-1B (Prompting)": "Tom ne nous croit pas.",
+      "LLaMA-3.2-1B": "Tom ne nous croit pas.",
+      "Gemma-3-1B (Prompting)": "Tom ne fait pas confiance à nous.",
+      "Gemma-3-1B": "Tom ne nous fait pas confiance."
+    }
+  }
+]

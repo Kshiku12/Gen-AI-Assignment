@@ -1,0 +1,4802 @@
+[
+  {
+    "en": "The river flooded the entire area.",
+    "fr": "La rivière a inondé toute la zone."
+  },
+  {
+    "en": "Is this the only picture of her you have?",
+    "fr": "Est-ce la seule photo d'elle que tu as?"
+  },
+  {
+    "en": "I know Tom is a bit chubby.",
+    "fr": "Je sais que Tom est un peu enveloppé."
+  },
+  {
+    "en": "Can you translate this for me?",
+    "fr": "Est-ce que vous pouvez traduire ça pour moi ?"
+  },
+  {
+    "en": "I think that Tom lied to us.",
+    "fr": "Je crois que Tom nous a menti."
+  },
+  {
+    "en": "My camera can shoot high-definition video.",
+    "fr": "Ma caméra peut prendre des vidéos haute-définition."
+  },
+  {
+    "en": "How old are Tom and Mary?",
+    "fr": "Quel âge ont Tom et Marie ?"
+  },
+  {
+    "en": "If you've got something to say, just say it.",
+    "fr": "Si tu as quelque chose à dire, dis-le."
+  },
+  {
+    "en": "When was Tom hired?",
+    "fr": "Quand Tom a-t-il été embauché ?"
+  },
+  {
+    "en": "He called his mother up from the airport.",
+    "fr": "Il a appelé sa mère depuis l'aéroport."
+  },
+  {
+    "en": "I just wanted to make sure you were OK.",
+    "fr": "Je voulais juste m'assurer que tu allais bien."
+  },
+  {
+    "en": "And he let the two men sleep at his home.",
+    "fr": "Et il a laissé les deux hommes dormir chez lui."
+  },
+  {
+    "en": "My dog often lies on the grass.",
+    "fr": "Mon chien se couche souvent sur la pelouse."
+  },
+  {
+    "en": "I can recall nothing worse.",
+    "fr": "Je ne peux me rappeler rien de pire."
+  },
+  {
+    "en": "I'll manage on my own.",
+    "fr": "Je me débrouillerai tout seul."
+  },
+  {
+    "en": "It's heavy, but I can manage it.",
+    "fr": "C'est lourd, mais je peux m'en sortir."
+  },
+  {
+    "en": "When do I need to hand in the report?",
+    "fr": "Quand dois-je remettre le rapport ?"
+  },
+  {
+    "en": "Unless it's something fairly impressive, I won't remember it.",
+    "fr": "À moins que ce soit quelque chose d'assez impressionnant, je ne m'en souviendrai pas."
+  },
+  {
+    "en": "I hope you understand.",
+    "fr": "J'espère que tu comprendras."
+  },
+  {
+    "en": "I haven't been outside in a long time.",
+    "fr": "Je n'ai pas mis le pied dehors depuis des lustres."
+  },
+  {
+    "en": "I don't know who I am anymore.",
+    "fr": "Je ne sais plus qui je suis."
+  },
+  {
+    "en": "Try resting for now.",
+    "fr": "Essayez de vous reposer pour l'instant."
+  },
+  {
+    "en": "It's not quite ready yet.",
+    "fr": "Ce n'est pas encore tout à fait prêt."
+  },
+  {
+    "en": "Are you about to do that?",
+    "fr": "Tu es sur le point de le faire ?"
+  },
+  {
+    "en": "Tom doesn't trust us.",
+    "fr": "Tom ne nous fait pas confiance."
+  },
+  {
+    "en": "Is French pronunciation difficult?",
+    "fr": "La prononciation française est-elle difficile ?"
+  },
+  {
+    "en": "I know that that would make me happy.",
+    "fr": "Je sais que ça me rendrait heureux."
+  },
+  {
+    "en": "I didn't ask you to come with us.",
+    "fr": "Je ne vous ai pas demandé de venir avec nous."
+  },
+  {
+    "en": "She may not like his attitude.",
+    "fr": "Il se peut qu'elle n'apprécie pas son attitude."
+  },
+  {
+    "en": "I'll tell Tom you called.",
+    "fr": "Je dirai à Tom que tu as appelé."
+  },
+  {
+    "en": "I hope I didn't do anything wrong.",
+    "fr": "J'espère que je n'ai rien fait de mal."
+  },
+  {
+    "en": "The temperature fell several degrees.",
+    "fr": "La température descendit de plusieurs degrés."
+  },
+  {
+    "en": "Did you receive the flowers?",
+    "fr": "Avez-vous reçu les fleurs ?"
+  },
+  {
+    "en": "This bag isn't big enough.",
+    "fr": "Ce sac n'est pas assez large."
+  },
+  {
+    "en": "I've lost my umbrella.",
+    "fr": "J'ai égaré mon parapluie."
+  },
+  {
+    "en": "I think I left something in the classroom.",
+    "fr": "Je pense que j'ai laissé quelque chose dans la salle de classe."
+  },
+  {
+    "en": "The simplest solution is often the best.",
+    "fr": "La solution la plus simple est souvent la meilleure."
+  },
+  {
+    "en": "The bus was empty except for one elderly woman.",
+    "fr": "Le bus était vide, à l'exception d'une vieille dame."
+  },
+  {
+    "en": "You don't have to stand out there in the rain. Come in.",
+    "fr": "Vous n'avez pas à rester dehors sous la pluie. Entrez."
+  },
+  {
+    "en": "I wanted to go back to your village.",
+    "fr": "Je voulais retourner à votre village."
+  },
+  {
+    "en": "When was the last time that you had a vacation?",
+    "fr": "À quand remonte vos dernières vacances ?"
+  },
+  {
+    "en": "Where can we have lunch?",
+    "fr": "Où pouvons-nous prendre le déjeuner ?"
+  },
+  {
+    "en": "Have you received a reply?",
+    "fr": "Avez-vous obtenu une réponse ?"
+  },
+  {
+    "en": "Who's your favorite super hero?",
+    "fr": "Quel est ton super-héros préféré ?"
+  },
+  {
+    "en": "I'll go to the grocery store across the street.",
+    "fr": "Je vais aller à l'épicerie d'en face."
+  },
+  {
+    "en": "He clinched the election when he came out against a tax increase.",
+    "fr": "Il a remporté l'élection lorsqu'il s'est déclaré opposé à une augmentation des impôts."
+  },
+  {
+    "en": "My son still believes in Santa Claus.",
+    "fr": "Mon fils croit toujours au Père Noël."
+  },
+  {
+    "en": "In the early days of American history, blacks lived in slavery.",
+    "fr": "Au commencement de l'histoire américaine, les noirs vivaient en esclavage."
+  },
+  {
+    "en": "Let's forget about our differences and focus on how we're the same.",
+    "fr": "Laissons tomber nos différences et concentrons-nous sur ce qui nous rapproche."
+  },
+  {
+    "en": "Why are we running? We're not in a hurry.",
+    "fr": "Pourquoi courons-nous ? Nous ne sommes pas pressés."
+  },
+  {
+    "en": "Tom is anxious about his future.",
+    "fr": "Tom est inquiet pour son avenir."
+  },
+  {
+    "en": "Could you show me how to use a snorkel?",
+    "fr": "Tu peux me montrer comment on se sert d'un tuba ?"
+  },
+  {
+    "en": "Do you know where we live?",
+    "fr": "Savez-vous où nous vivons ?"
+  },
+  {
+    "en": "Which one do you prefer, this one or that one?",
+    "fr": "Tu préfères lequel ? Celui-ci ou celui-là ?"
+  },
+  {
+    "en": "Tom is still drunk.",
+    "fr": "Tom est encore ivre."
+  },
+  {
+    "en": "Do what you want.",
+    "fr": "Fais ce que tu veux."
+  },
+  {
+    "en": "Why's it bothering you?",
+    "fr": "Pourquoi ça t'embête ?"
+  },
+  {
+    "en": "Please let me know.",
+    "fr": "Faites-moi savoir s'il vous plaît."
+  },
+  {
+    "en": "I'm not going out because I have to do my homework.",
+    "fr": "Je ne sors pas, car je dois faire mes devoirs."
+  },
+  {
+    "en": "I expected better of you.",
+    "fr": "J'attendais mieux de toi."
+  },
+  {
+    "en": "Tom wasn't afraid of death.",
+    "fr": "Tom n'avait pas peur de la mort."
+  },
+  {
+    "en": "Not only does he speak French, he can also speak English.",
+    "fr": "Il ne parle pas seulement le français, mais aussi l'anglais."
+  },
+  {
+    "en": "Apparently my bare feet bothered him more than anything else.",
+    "fr": "Le fait que je sois nu-pieds le dérangeait apparemment plus que toute autre chose."
+  },
+  {
+    "en": "I've been to Boston countless times.",
+    "fr": "Je suis allé à Boston de nombreuses fois."
+  },
+  {
+    "en": "The French Revolution took place in 1789.",
+    "fr": "La Révolution française eut lieu en 1789."
+  },
+  {
+    "en": "We have ample time to catch our train.",
+    "fr": "Nous avons amplement le temps de prendre notre train."
+  },
+  {
+    "en": "Tom asked Mary whether she planned to swim or not.",
+    "fr": "Tom a demandé à Mary si elle pensait aller nager ou non."
+  },
+  {
+    "en": "What is it called?",
+    "fr": "Comment ça s'appelle ?"
+  },
+  {
+    "en": "Tom is exactly the same age as you.",
+    "fr": "Tom a exactement le même âge que toi."
+  },
+  {
+    "en": "I don't have a washing machine.",
+    "fr": "Je n'ai pas de machine à laver."
+  },
+  {
+    "en": "When I opened the door, I broke the lock.",
+    "fr": "Lorsque j'ai ouvert la porte, j'ai cassé la serrure."
+  },
+  {
+    "en": "In 1939, as in 1914, the world was on the brink of war.",
+    "fr": "En 1939, comme en 1914, le monde était au bord de la guerre."
+  },
+  {
+    "en": "Do you like looking in the mirror?",
+    "fr": "Aimes-tu regarder dans le miroir ?"
+  },
+  {
+    "en": "I stayed at a cheap hotel.",
+    "fr": "Je séjournai dans un hôtel bon marché."
+  },
+  {
+    "en": "I like science fiction novels.",
+    "fr": "J'aime les romans de science-fiction."
+  },
+  {
+    "en": "Tom is never at a loss for words.",
+    "fr": "Tom n'est jamais à court de mots."
+  },
+  {
+    "en": "Do you have any money on you?",
+    "fr": "Avez-vous de l'argent sur vous ?"
+  },
+  {
+    "en": "When we started out in this business, many people said that we would fail.",
+    "fr": "Lorsque nous avons démarré dans ce commerce, beaucoup de gens disaient que nous échouerions."
+  },
+  {
+    "en": "You should wait inside.",
+    "fr": "Tu devrais attendre à l'intérieur."
+  },
+  {
+    "en": "Tom isn't accustomed to working at night.",
+    "fr": "Tom n'est pas habitué à travailler la nuit."
+  },
+  {
+    "en": "I think Tom injured himself.",
+    "fr": "Je pense que Tom s'est blessé."
+  },
+  {
+    "en": "This door is the only exit.",
+    "fr": "Cette porte est la seule sortie."
+  },
+  {
+    "en": "Don't ask me again.",
+    "fr": "Ne me repose pas la question !"
+  },
+  {
+    "en": "He finds faults with everything I do.",
+    "fr": "Il trouve des fautes dans tout ce que je fais."
+  },
+  {
+    "en": "Would you like to swap jobs?",
+    "fr": "Voudriez-vous échanger nos emplois ?"
+  },
+  {
+    "en": "I didn't know whether I wanted to go to university.",
+    "fr": "Je ne savais pas si je voulais aller à l'université."
+  },
+  {
+    "en": "The bullet went through his body.",
+    "fr": "La balle traversa son corps."
+  },
+  {
+    "en": "He doesn't seem to be an American.",
+    "fr": "Il ne semble pas être Américain."
+  },
+  {
+    "en": "I admired Tom's work.",
+    "fr": "J'admirais le travail de Tom."
+  },
+  {
+    "en": "That's a beautiful dress.",
+    "fr": "C'est une belle robe."
+  },
+  {
+    "en": "I'm confident that you'll succeed.",
+    "fr": "Je suis sûr que vous allez réussir."
+  },
+  {
+    "en": "I'd rather die than do that.",
+    "fr": "Je préférerais mourir que de faire ça."
+  },
+  {
+    "en": "The tree was struck by lightning.",
+    "fr": "L'arbre a été frappé par la foudre."
+  },
+  {
+    "en": "How did he find us?",
+    "fr": "Comment nous a-t-il trouvés ?"
+  },
+  {
+    "en": "Come inside. It's cold outside.",
+    "fr": "Entre. Il fait froid dehors."
+  },
+  {
+    "en": "Mary applied moisturizing cream to her face.",
+    "fr": "Marie a appliqué la crème hydratante sur son visage."
+  },
+  {
+    "en": "Is this information true?",
+    "fr": "Ces informations sont-elles vraies ?"
+  },
+  {
+    "en": "That company produces microchips.",
+    "fr": "Cette société produit des circuits intégrés."
+  },
+  {
+    "en": "I have nothing particular to do.",
+    "fr": "Je n'ai rien de particulier à faire."
+  },
+  {
+    "en": "A man appeared at the door.",
+    "fr": "Un homme est apparu à la porte."
+  },
+  {
+    "en": "It's our only show.",
+    "fr": "C'est notre unique spectacle."
+  },
+  {
+    "en": "Give me more time.",
+    "fr": "Donne-moi plus de temps."
+  },
+  {
+    "en": "We haven't been coerced in any way.",
+    "fr": "Nous n'avons nullement été contraints."
+  },
+  {
+    "en": "She's much heavier than him.",
+    "fr": "Elle est bien plus lourde que lui."
+  },
+  {
+    "en": "Don't try to pass the buck.",
+    "fr": "N'essaye pas de rejeter la faute sur les autres."
+  },
+  {
+    "en": "I hope that it rains tomorrow.",
+    "fr": "J'espère qu'il pleuvra demain."
+  },
+  {
+    "en": "Should I bring something to read?",
+    "fr": "Est-ce que je devrais amener quelque chose à lire ?"
+  },
+  {
+    "en": "Does Mary want me to walk her home?",
+    "fr": "Mary veut-elle que je la raccompagne chez elle ?"
+  },
+  {
+    "en": "You shouldn't say that kind of thing when children are around.",
+    "fr": "Tu ne devrais pas dire une telle chose lorsque les enfants sont dans les parages."
+  },
+  {
+    "en": "I don't think it'll rain.",
+    "fr": "Je ne pense pas qu'il va pleuvoir."
+  },
+  {
+    "en": "I don't feel like working today, so let's go play soccer.",
+    "fr": "Je n'ai pas envie de travailler aujourd'hui, allons jouer au foot."
+  },
+  {
+    "en": "Tom flushed the toilet.",
+    "fr": "Tom a tiré la chasse."
+  },
+  {
+    "en": "Tom found a hair in his soup.",
+    "fr": "Tom a trouvé un cheveu dans sa soupe."
+  },
+  {
+    "en": "We hadn't gone very far when it started to rain.",
+    "fr": "Nous ne nous étions pas encore beaucoup éloignés qu'il se mit à pleuvoir."
+  },
+  {
+    "en": "The soldiers were armed.",
+    "fr": "Les soldats étaient équipés d'armes."
+  },
+  {
+    "en": "I can't see anything from here.",
+    "fr": "D'ici, je ne vois rien."
+  },
+  {
+    "en": "We're running out of time.",
+    "fr": "Nous n'avons pas beaucoup de temps."
+  },
+  {
+    "en": "Since we insulated the house we've saved a lot on heating oil.",
+    "fr": "Depuis que nous avons isolé la maison, nous avons beaucoup économisé sur le mazout."
+  },
+  {
+    "en": "This picture reminds me of my childhood.",
+    "fr": "Cette image me rappelle mon enfance."
+  },
+  {
+    "en": "My parents have separated.",
+    "fr": "Mes parents se sont séparés."
+  },
+  {
+    "en": "I just want to stay here.",
+    "fr": "Je veux juste rester ici."
+  },
+  {
+    "en": "I pay someone to clean my house.",
+    "fr": "Je paye quelqu'un pour nettoyer ma maison."
+  },
+  {
+    "en": "I went to school with your brother.",
+    "fr": "Je suis allé à l'école avec votre frère."
+  },
+  {
+    "en": "I got this bicycle for nothing.",
+    "fr": "J'ai eu ce vélo pour rien."
+  },
+  {
+    "en": "She's pregnant with twins.",
+    "fr": "Elle est enceinte de jumeaux."
+  },
+  {
+    "en": "Who wants more coffee?",
+    "fr": "Qui veut plus de café ?"
+  },
+  {
+    "en": "Does Tom have a fishing license?",
+    "fr": "Est-ce que Tom a un permis de pêche ?"
+  },
+  {
+    "en": "Tom got time and a half when he worked beyond his usual quitting time.",
+    "fr": "Thomas obtenait une fois et demie son salaire lorsqu'il travaillait au-delà de son heure de départ habituelle."
+  },
+  {
+    "en": "A man must work.",
+    "fr": "Un homme doit travailler."
+  },
+  {
+    "en": "You must teach me what you know.",
+    "fr": "Il faut que vous m'enseigniez ce que vous savez."
+  },
+  {
+    "en": "I just cut my nails.",
+    "fr": "Je viens de me couper les ongles."
+  },
+  {
+    "en": "I knew that somebody would come.",
+    "fr": "Je savais que quelqu'un viendrait."
+  },
+  {
+    "en": "I tried to swim across the river.",
+    "fr": "J'ai essayé de traverser la rivière à la nage."
+  },
+  {
+    "en": "The noise is going to wake the baby.",
+    "fr": "Le bruit va réveiller le bébé."
+  },
+  {
+    "en": "I'll see you in October.",
+    "fr": "Je vous verrai en octobre."
+  },
+  {
+    "en": "They are sitting in the kitchen and drinking tea.",
+    "fr": "Elles sont assises dans la cuisine et boivent du thé."
+  },
+  {
+    "en": "I think it's over.",
+    "fr": "Je pense que c'est fini."
+  },
+  {
+    "en": "I wanted to go fishing.",
+    "fr": "Je voulais aller pêcher."
+  },
+  {
+    "en": "It was the increase in population that caused the poverty.",
+    "fr": "C'était l'augmentation de la population qui causait la pauvreté."
+  },
+  {
+    "en": "Correct the underlined words.",
+    "fr": "Corrigez les mots soulignés."
+  },
+  {
+    "en": "This was a gift from Tom.",
+    "fr": "C'était un cadeau de Tom."
+  },
+  {
+    "en": "I wonder what we need to do next.",
+    "fr": "Je me demande ce qu'il faut que nous fassions ensuite."
+  },
+  {
+    "en": "I didn't know that you were coming by.",
+    "fr": "Je ne savais pas que vous passiez."
+  },
+  {
+    "en": "She needs some help from us.",
+    "fr": "Elle a besoin d'aide de notre part."
+  },
+  {
+    "en": "The lava flow destroyed everything in its path.",
+    "fr": "La coulée de lave a tout détruit sur son passage."
+  },
+  {
+    "en": "Noh is a traditional Japanese art.",
+    "fr": "Le nô est un art traditionnel japonais."
+  },
+  {
+    "en": "We're going to do things our own way.",
+    "fr": "Nous allons faire les choses à notre manière."
+  },
+  {
+    "en": "I was about to go out when he called on me.",
+    "fr": "Je me préparais à sortir lorsqu'il est venu me rendre visite."
+  },
+  {
+    "en": "Does this house belong to you?",
+    "fr": "Est-ce que cette maison t'appartient ?"
+  },
+  {
+    "en": "I'm not the one responsible for what happened.",
+    "fr": "Je ne suis pas responsable de ce qui s'est passé."
+  },
+  {
+    "en": "Who have you told so far?",
+    "fr": "À qui en avez-vous parlé jusqu'à maintenant ?"
+  },
+  {
+    "en": "I feel a whole lot better today.",
+    "fr": "Je me sens beaucoup mieux aujourd'hui."
+  },
+  {
+    "en": "I bought it last week.",
+    "fr": "Je l'ai acheté la semaine passée."
+  },
+  {
+    "en": "You don't have a clue, do you?",
+    "fr": "Tu n'en as aucune idée, n'est-ce pas ?"
+  },
+  {
+    "en": "A great deal has happened while you've been away.",
+    "fr": "Il s'est passé beaucoup de choses pendant ton absence."
+  },
+  {
+    "en": "Tom received a fax from Mary this morning.",
+    "fr": "Tom a reçu un fax de Mary ce matin."
+  },
+  {
+    "en": "I kept on singing.",
+    "fr": "J'ai continué à chanter."
+  },
+  {
+    "en": "Don't be afraid of making mistakes.",
+    "fr": "N'ayez pas peur de vous tromper."
+  },
+  {
+    "en": "You obviously don't live here.",
+    "fr": "Vous ne vivez à l'évidence pas ici."
+  },
+  {
+    "en": "This is smaller than that.",
+    "fr": "C'est plus petit que ça."
+  },
+  {
+    "en": "There will be other chances.",
+    "fr": "Il y aura d'autres occasions."
+  },
+  {
+    "en": "Sometimes I wonder whether or not I made the right decision.",
+    "fr": "Parfois, je me demande si j'ai pris ou pas la bonne décision."
+  },
+  {
+    "en": "We were all at school together.",
+    "fr": "Nous étions tous à l'école ensemble."
+  },
+  {
+    "en": "I'm sure your intentions were good.",
+    "fr": "Je suis sûr que tes intentions étaient bonnes."
+  },
+  {
+    "en": "Don't expect any changes soon.",
+    "fr": "N'attendez aucun changement prochainement."
+  },
+  {
+    "en": "Did you see anything?",
+    "fr": "As-tu vu quelque chose ?"
+  },
+  {
+    "en": "Where are our children?",
+    "fr": "Où sont nos enfants ?"
+  },
+  {
+    "en": "Busy hands are happy hands.",
+    "fr": "Les mains occupées sont des mains heureuses."
+  },
+  {
+    "en": "I never touch beer.",
+    "fr": "Je ne bois jamais de bière."
+  },
+  {
+    "en": "A little warning would've been nice.",
+    "fr": "Un petit avertissement aurait été bien."
+  },
+  {
+    "en": "We did not expect him to finish the task in so short a time.",
+    "fr": "Nous ne nous attendions pas à ce qu'il termine le travail en si peu de temps."
+  },
+  {
+    "en": "Come what may, I won't change my opinion.",
+    "fr": "Advienne que pourra, je ne changerai pas d'avis."
+  },
+  {
+    "en": "I wonder if there'll be more snow this year than last year.",
+    "fr": "Je me demande s'il y aura davantage de neige cette année que l'année passée."
+  },
+  {
+    "en": "We're very proud of you.",
+    "fr": "Nous sommes très fiers de toi."
+  },
+  {
+    "en": "Tom is almost three years old.",
+    "fr": "Tom a presque trois ans."
+  },
+  {
+    "en": "This cake tastes like it has cheese in it.",
+    "fr": "Ce gâteau a le goût de fromage."
+  },
+  {
+    "en": "How far is it from here to the station?",
+    "fr": "Combien y a-t-il d'ici à la gare ?"
+  },
+  {
+    "en": "I feel really bad.",
+    "fr": "Je me sens vraiment mal."
+  },
+  {
+    "en": "I'm growing a beard.",
+    "fr": "Je me fais pousser la barbe."
+  },
+  {
+    "en": "They didn't offer me anything to drink.",
+    "fr": "Ils ne m'ont rien offert à boire."
+  },
+  {
+    "en": "The judge handed down a sentence of five years hard labor.",
+    "fr": "Le juge prononça une peine de cinq ans de travaux forcés."
+  },
+  {
+    "en": "If you're tired, rest.",
+    "fr": "Si tu es fatigué, repose-toi !"
+  },
+  {
+    "en": "What shampoo do you use?",
+    "fr": "Quel shampooing utilisez-vous ?"
+  },
+  {
+    "en": "She's curious to find out who sent the flowers.",
+    "fr": "Elle est curieuse de savoir qui a envoyé les fleurs."
+  },
+  {
+    "en": "We were attacked by swarms of bees.",
+    "fr": "Nous étions attaqués par un essaim d'abeilles."
+  },
+  {
+    "en": "There's a party tonight.",
+    "fr": "Il y a une fête ce soir."
+  },
+  {
+    "en": "I want to finish the work on my own.",
+    "fr": "Je veux finir le travail moi-même."
+  },
+  {
+    "en": "She is careless about the way she dresses.",
+    "fr": "Elle est peu soucieuse de la façon dont elle s'habille."
+  },
+  {
+    "en": "Hollywood isn't what it used to be.",
+    "fr": "Hollywood n'est plus ce qu'il était."
+  },
+  {
+    "en": "Tom knows who stole your car.",
+    "fr": "Tom sait qui a volé ta voiture."
+  },
+  {
+    "en": "They got a warm reception.",
+    "fr": "Ils ont eu une réception chaleureuse."
+  },
+  {
+    "en": "You can keep it if you want to.",
+    "fr": "Tu peux le garder si tu veux."
+  },
+  {
+    "en": "We broke out of prison.",
+    "fr": "Nous nous sommes échappés de prison."
+  },
+  {
+    "en": "Did you phone me?",
+    "fr": "Est-ce vous qui m'avez appelée ?"
+  },
+  {
+    "en": "Do you eat rice in your country?",
+    "fr": "Mangez-vous du riz dans votre pays ?"
+  },
+  {
+    "en": "\"Would you like some tea?\" \"Yes, please.\"",
+    "fr": "\" Désireriez-vous du thé ? \" \" Oui, s'il vous plaît. \""
+  },
+  {
+    "en": "These shoes are too big for me.",
+    "fr": "Ces chaussures sont trop grandes pour moi."
+  },
+  {
+    "en": "Tom gave his cat some catnip.",
+    "fr": "Tom donnait de l'herbe à chat à son chat."
+  },
+  {
+    "en": "I'll be upstairs if you need me.",
+    "fr": "Je serai à l'étage si tu as besoin de moi."
+  },
+  {
+    "en": "Tom has finally confessed.",
+    "fr": "Tom a finalement avoué."
+  },
+  {
+    "en": "Today is scorching hot, so dress light.",
+    "fr": "Il fait une chaleur torride aujourd'hui, alors habille-toi légèrement."
+  },
+  {
+    "en": "Tom ate a hamburger with fries.",
+    "fr": "Tom a mangé un hamburger avec des frites."
+  },
+  {
+    "en": "You must not say it.",
+    "fr": "Vous devez ne pas le dire."
+  },
+  {
+    "en": "She managed to keep up appearances.",
+    "fr": "Elle se débrouilla pour préserver les apparences."
+  },
+  {
+    "en": "I took what she said literally.",
+    "fr": "J'ai interprété ses propos littéralement."
+  },
+  {
+    "en": "I have midterms next week.",
+    "fr": "J'ai les examens intermédiaires, la semaine prochaine."
+  },
+  {
+    "en": "I think this project is moving on the right track.",
+    "fr": "Je pense que ce projet est sur la bonne voie."
+  },
+  {
+    "en": "I wanted Tom to help me.",
+    "fr": "Je voulais que Tom m'aide."
+  },
+  {
+    "en": "Their deep love for each other was unequivocal.",
+    "fr": "Leur profond amour l'un pour l'autre était sans équivoque."
+  },
+  {
+    "en": "My health's very bad.",
+    "fr": "Ma santé est très mauvaise."
+  },
+  {
+    "en": "It's the same wine.",
+    "fr": "C'est le même vin."
+  },
+  {
+    "en": "Tom forgot his umbrella in his car.",
+    "fr": "Tom a oublié son parapluie dans sa voiture."
+  },
+  {
+    "en": "The enemy torpedoed our ship.",
+    "fr": "L'ennemi a torpillé notre bateau."
+  },
+  {
+    "en": "I thought I heard someone banging on the wall.",
+    "fr": "J'ai cru entendre quelqu'un frapper le mur."
+  },
+  {
+    "en": "It'll be no problem.",
+    "fr": "Ça sera sans problème."
+  },
+  {
+    "en": "I have no time to engage in gossip.",
+    "fr": "Je n'ai pas le temps de m'occuper des ragots."
+  },
+  {
+    "en": "We stayed home because it was raining.",
+    "fr": "Nous sommes restés à la maison parce qu'il pleuvait."
+  },
+  {
+    "en": "Tom slammed on the brakes so he wouldn't hit the dog.",
+    "fr": "Tom a enfoncé la pédale de frein pour ne pas heurter le chien."
+  },
+  {
+    "en": "Today was a good day, so I'll sleep soundly tonight.",
+    "fr": "Aujourd'hui a été une bonne journée, donc je dormirai profondément ce soir."
+  },
+  {
+    "en": "Don't forget what I told you.",
+    "fr": "N'oublie pas ce que je t'ai dit."
+  },
+  {
+    "en": "This is vegetable soup.",
+    "fr": "C'est une soupe de légumes."
+  },
+  {
+    "en": "Here's a simple example.",
+    "fr": "Voici un exemple simple."
+  },
+  {
+    "en": "Don't bother to pick me up at the hotel.",
+    "fr": "Ne t'embête pas à venir me prendre à l'hôtel."
+  },
+  {
+    "en": "I'll leave Tom alone.",
+    "fr": "Je laisserai Tom seul."
+  },
+  {
+    "en": "I didn't even know you had a girlfriend.",
+    "fr": "Je ne savais même pas que tu avais une petite amie."
+  },
+  {
+    "en": "She speaks English really well.",
+    "fr": "Elle parle vraiment bien l'anglais."
+  },
+  {
+    "en": "She gave me some practical advice.",
+    "fr": "Elle m'a donné des conseils pratiques."
+  },
+  {
+    "en": "Can he have said such a thing?",
+    "fr": "Il peut avoir dit une chose pareille ?"
+  },
+  {
+    "en": "I thought Tom liked riddles.",
+    "fr": "Je croyais que Tom aimait les énigmes."
+  },
+  {
+    "en": "Today, we had two false alarms.",
+    "fr": "Nous avons eu deux fausses alertes, aujourd'hui."
+  },
+  {
+    "en": "What do you really think?",
+    "fr": "Que penses-tu vraiment ?"
+  },
+  {
+    "en": "Tom never learned how to read and write.",
+    "fr": "Thomas n'a jamais appris à lire et à écrire."
+  },
+  {
+    "en": "I'd like to change my room.",
+    "fr": "J'aimerais changer de chambre."
+  },
+  {
+    "en": "I'd advise you not to buy that house.",
+    "fr": "Je vous conseille de ne pas acheter cette maison."
+  },
+  {
+    "en": "I wonder if I really should do that.",
+    "fr": "Je me demande si je devrais vraiment faire ça."
+  },
+  {
+    "en": "I usually drive myself to work.",
+    "fr": "J'ai l'habitude de conduire pour aller au travail."
+  },
+  {
+    "en": "I thought I was happy.",
+    "fr": "Je pensais que j'étais heureux."
+  },
+  {
+    "en": "This house has two bathrooms.",
+    "fr": "Cette maison possède deux salles de bain."
+  },
+  {
+    "en": "Am I talking too fast?",
+    "fr": "Est-ce que je parle trop vite ?"
+  },
+  {
+    "en": "Was that a hint?",
+    "fr": "Est-ce que c'était un indice ?"
+  },
+  {
+    "en": "Unfortunately, Tom's train has left.",
+    "fr": "Le train de Tom est malheureusement parti."
+  },
+  {
+    "en": "Please speak as clearly as you can.",
+    "fr": "Veuillez parler aussi clairement que vous le pouvez."
+  },
+  {
+    "en": "I think that we got ripped off.",
+    "fr": "Je pense qu'on s'est fait rouler."
+  },
+  {
+    "en": "Not many survive this disease.",
+    "fr": "Peu survivent à cette maladie."
+  },
+  {
+    "en": "That's what I think.",
+    "fr": "C'est ce que je pense."
+  },
+  {
+    "en": "You have a lot of books.",
+    "fr": "Tu as de nombreux livres."
+  },
+  {
+    "en": "I wasn't aware of what was going on.",
+    "fr": "Je ne me suis pas rendu compte de ce qui se passait."
+  },
+  {
+    "en": "The pentagram is an important symbol in witchcraft.",
+    "fr": "Le pentacle est un symbole important en sorcellerie."
+  },
+  {
+    "en": "I really like him, but not his circle of friends.",
+    "fr": "Je l'apprécie vraiment lui, mais pas son cercle d'amis."
+  },
+  {
+    "en": "We've discussed this many times already.",
+    "fr": "On en a déjà discuté plein de fois."
+  },
+  {
+    "en": "Luckily nobody got killed.",
+    "fr": "Heureusement personne n'a été tué."
+  },
+  {
+    "en": "I'll be home in time for dinner.",
+    "fr": "Je serai rentré à temps pour le dîner."
+  },
+  {
+    "en": "He drove his sports car at full speed.",
+    "fr": "Il conduisait sa voiture de sport à toute allure."
+  },
+  {
+    "en": "How about wearing contact lenses?",
+    "fr": "Pourquoi ne portes-tu pas de lentilles de contact ?"
+  },
+  {
+    "en": "That's why I lied.",
+    "fr": "C'est pourquoi j'ai menti."
+  },
+  {
+    "en": "Take care of this.",
+    "fr": "Prenez soin de ceci !"
+  },
+  {
+    "en": "Don't scrape your chair on the floor.",
+    "fr": "Ne fais pas racler ta chaise sur le sol."
+  },
+  {
+    "en": "People used to think that was true.",
+    "fr": "Les gens pensaient que c'était vrai."
+  },
+  {
+    "en": "I need to finish reading my book.",
+    "fr": "Je dois finir de lire mon livre."
+  },
+  {
+    "en": "The doorman opened the door.",
+    "fr": "Le portier a ouvert la porte."
+  },
+  {
+    "en": "I anticipated his question.",
+    "fr": "J'ai anticipé sa question."
+  },
+  {
+    "en": "They have four children: three girls and a boy.",
+    "fr": "Ils ont quatre enfants : trois filles et un garçon."
+  },
+  {
+    "en": "We're going to have a meeting here tomorrow.",
+    "fr": "Nous allons avoir une réunion ici demain."
+  },
+  {
+    "en": "May I smoke here?",
+    "fr": "Puis-je fumer ici ?"
+  },
+  {
+    "en": "Hurry up, or you'll miss the train.",
+    "fr": "Dépêchez-vous, ou vous manquerez le train."
+  },
+  {
+    "en": "I can't ignore that.",
+    "fr": "Je ne peux pas ignorer ça."
+  },
+  {
+    "en": "I'm leaving in the afternoon.",
+    "fr": "Je pars dans l'après-midi."
+  },
+  {
+    "en": "I want you to know that I meant every word I said.",
+    "fr": "Je veux que tu saches que j'ai voulu dire chaque mot que j'ai dit."
+  },
+  {
+    "en": "During the war, people went through many hardships.",
+    "fr": "Pendant la guerre les gens ont traversé bien des épreuves."
+  },
+  {
+    "en": "He is no longer a boy.",
+    "fr": "Il n'est plus un garçon."
+  },
+  {
+    "en": "I'm looking for my mobile phone.",
+    "fr": "Je cherche mon cellulaire."
+  },
+  {
+    "en": "I'm working for a trading firm.",
+    "fr": "Je travaille pour une entreprise de commerce."
+  },
+  {
+    "en": "Suddenly, it started raining very hard.",
+    "fr": "Tout à coup, il s'est mis à pleuvoir très fort."
+  },
+  {
+    "en": "Another batch of cookies are coming out of the oven.",
+    "fr": "Un autre fournée de biscuits sort du four."
+  },
+  {
+    "en": "Three weeks went by.",
+    "fr": "Trois semaines ont passé."
+  },
+  {
+    "en": "I was bleeding a lot.",
+    "fr": "Je perdais beaucoup de sang."
+  },
+  {
+    "en": "Majority rule is a basic principle of democracy.",
+    "fr": "La règle de majorité est un principe de base de la démocratie."
+  },
+  {
+    "en": "How much is this T-shirt?",
+    "fr": "Combien coûte ce T-shirt ?"
+  },
+  {
+    "en": "They argue that the distribution of wealth should be equitable.",
+    "fr": "Ils soutiennent que la distribution de la richesse devrait être équitable."
+  },
+  {
+    "en": "Tom doesn't think it'll rain tomorrow.",
+    "fr": "Tom ne pense pas qu'il va pleuvoir demain."
+  },
+  {
+    "en": "She was there in the morning.",
+    "fr": "Elle était là ce matin."
+  },
+  {
+    "en": "The waitress greeted me with a smile.",
+    "fr": "La serveuse m'a accueilli avec un sourire."
+  },
+  {
+    "en": "The ground is covered with snow.",
+    "fr": "Le sol est recouvert de neige."
+  },
+  {
+    "en": "I wish it were really like that.",
+    "fr": "J'aimerais qu'il en soit vraiment ainsi !"
+  },
+  {
+    "en": "She didn't give me her name.",
+    "fr": "Elle ne m'a pas donné son nom."
+  },
+  {
+    "en": "I believe in the immortality of the soul.",
+    "fr": "Je crois en l'immortalité de l'âme."
+  },
+  {
+    "en": "He turned pale when he heard that news.",
+    "fr": "Il devint pâle lorsqu'il entendit ces nouvelles."
+  },
+  {
+    "en": "What did you watch?",
+    "fr": "Qu'est-ce que tu as regardé ?"
+  },
+  {
+    "en": "I want more money.",
+    "fr": "Je veux davantage d'argent."
+  },
+  {
+    "en": "Please have some copies made.",
+    "fr": "Faites faire des copies, je vous prie !"
+  },
+  {
+    "en": "We know this is real.",
+    "fr": "Nous savons que c'est réel."
+  },
+  {
+    "en": "I sent Tom home.",
+    "fr": "J'ai renvoyé Tom à la maison."
+  },
+  {
+    "en": "The television set's not working.",
+    "fr": "Le téléviseur ne marche pas."
+  },
+  {
+    "en": "Is your suitcase as heavy as it looks?",
+    "fr": "Ta valise est-elle aussi lourde qu'elle en a l'air ?"
+  },
+  {
+    "en": "He who knows the most often says the least.",
+    "fr": "Celui qui sait est celui qui, la plupart du temps, en dit le moins."
+  },
+  {
+    "en": "I was unable to go outside.",
+    "fr": "J'étais dans l'incapacité de me rendre à l'extérieur."
+  },
+  {
+    "en": "I know how to drive a car.",
+    "fr": "Je sais comment conduire une voiture."
+  },
+  {
+    "en": "He has already gone out.",
+    "fr": "Il est déjà sorti."
+  },
+  {
+    "en": "I hate this car.",
+    "fr": "Je déteste cette voiture."
+  },
+  {
+    "en": "I had a really nice time tonight.",
+    "fr": "J'ai vraiment passé du bon temps, ce soir."
+  },
+  {
+    "en": "I need to get myself a new pair of glasses.",
+    "fr": "J'ai besoin de me trouver une nouvelle paire de lunettes."
+  },
+  {
+    "en": "I hate stuff like this.",
+    "fr": "J'ai horreur de ce genre de choses."
+  },
+  {
+    "en": "This word is derived from Latin.",
+    "fr": "Ce mot vient du latin."
+  },
+  {
+    "en": "Tom has suffered some failures.",
+    "fr": "Tom a essuyé quelques échecs."
+  },
+  {
+    "en": "You're too good to me.",
+    "fr": "Tu es trop bon avec moi."
+  },
+  {
+    "en": "I didn't win, but at least I got a consolation prize.",
+    "fr": "Je n'ai pas gagné, mais au moins ai-je obtenu un lot de consolation."
+  },
+  {
+    "en": "I think we can be competitive.",
+    "fr": "Je pense que nous pouvons être compétitifs."
+  },
+  {
+    "en": "This is a public school.",
+    "fr": "Celle-ci est une école publique."
+  },
+  {
+    "en": "The pier took a real beating from the hurricane.",
+    "fr": "Le quai a vraiment été battu par l'ouragan."
+  },
+  {
+    "en": "I have a friend whose father is an animal doctor.",
+    "fr": "J'ai un ami dont le père est vétérinaire."
+  },
+  {
+    "en": "He asked me to do it.",
+    "fr": "Il m'a demandé de le faire."
+  },
+  {
+    "en": "The examples in this dictionary are easy to understand.",
+    "fr": "Les exemples de ce dictionnaire sont faciles à comprendre."
+  },
+  {
+    "en": "Cats were sacred animals in ancient Egypt.",
+    "fr": "Les chats étaient des animaux sacrés dans l'Égypte antique."
+  },
+  {
+    "en": "It's our only hope.",
+    "fr": "C'est notre seul espoir."
+  },
+  {
+    "en": "There are pipes running under the flooring.",
+    "fr": "Il y a des tuyaux sous le sol."
+  },
+  {
+    "en": "You can't deny that.",
+    "fr": "Tu ne peux pas nier cela."
+  },
+  {
+    "en": "That soil is rich in humus.",
+    "fr": "Ce sol est riche en humus."
+  },
+  {
+    "en": "I'm beginning to have doubts.",
+    "fr": "Je commence à avoir des doutes."
+  },
+  {
+    "en": "Please forgive me for forgetting to call you.",
+    "fr": "Pardonne-moi d'avoir oublié de te téléphoner."
+  },
+  {
+    "en": "What's all the excitement?",
+    "fr": "Quelle est toute cette excitation ?"
+  },
+  {
+    "en": "How dare you call me a hypocrite!",
+    "fr": "Comment oses-tu me traiter d'hypocrite ?"
+  },
+  {
+    "en": "What kind of book are you reading?",
+    "fr": "Quel genre de livre tu lis ?"
+  },
+  {
+    "en": "Why aren't you talking to me?",
+    "fr": "Pourquoi ne me parles-tu pas ?"
+  },
+  {
+    "en": "A bus transported us from the airport to the city.",
+    "fr": "Un bus nous a transportés de l'aéroport à la ville."
+  },
+  {
+    "en": "It's flat as a pancake.",
+    "fr": "C'est plat comme une crêpe."
+  },
+  {
+    "en": "When will you harvest your wheat?",
+    "fr": "Quand allez-vous moissonner les blés ?"
+  },
+  {
+    "en": "Everything must be perfect.",
+    "fr": "Tout doit être parfait."
+  },
+  {
+    "en": "What are the dimensions of the room?",
+    "fr": "Quelles sont les dimensions de cette pièce ?"
+  },
+  {
+    "en": "I had to wait for Tom to wake up.",
+    "fr": "J'ai dû attendre que Tom se lève."
+  },
+  {
+    "en": "What Tom said was true.",
+    "fr": "Ce que Tom a dit était la vérité."
+  },
+  {
+    "en": "There's been a mix-up.",
+    "fr": "Il y a maldonne."
+  },
+  {
+    "en": "Let's hit the road.",
+    "fr": "On se casse !"
+  },
+  {
+    "en": "My father has never gotten sick in his life.",
+    "fr": "Mon père n'a jamais été malade de sa vie."
+  },
+  {
+    "en": "What do you say we buy everyone a drink?",
+    "fr": "Que dis-tu de payer une tournée à tout le monde ?"
+  },
+  {
+    "en": "We left the house together.",
+    "fr": "Nous avons quitté la maison ensemble."
+  },
+  {
+    "en": "The gate was off its hinges.",
+    "fr": "La porte était hors de ses gonds."
+  },
+  {
+    "en": "How deep is it here?",
+    "fr": "Quelle est la profondeur ici ?"
+  },
+  {
+    "en": "I'm going to the country with my friends.",
+    "fr": "Je vais à la campagne avec mes amis."
+  },
+  {
+    "en": "What are you interested in?",
+    "fr": "À quoi t'intéresses-tu ?"
+  },
+  {
+    "en": "Tom knows it's useless.",
+    "fr": "Tom sait que c'est inutile."
+  },
+  {
+    "en": "What do you want me to do with this plot of land?",
+    "fr": "Que veux-tu que je fasse de ce lopin de terre ?"
+  },
+  {
+    "en": "My father is going to kill me.",
+    "fr": "Mon père va me tuer."
+  },
+  {
+    "en": "This is a pretty amazing place.",
+    "fr": "C'est un endroit assez étonnant."
+  },
+  {
+    "en": "I prefer spring to fall.",
+    "fr": "Je préfère le printemps à l'automne."
+  },
+  {
+    "en": "I met him by accident at the airport yesterday.",
+    "fr": "Je l'ai rencontré par hasard hier à l'aéroport."
+  },
+  {
+    "en": "He comes into contact with all kinds of people.",
+    "fr": "Il est en rapport avec toutes sortes de gens."
+  },
+  {
+    "en": "You should've told me yesterday.",
+    "fr": "Tu aurais dû me le dire hier."
+  },
+  {
+    "en": "Tom is growing a beard, isn't he?",
+    "fr": "Tom se laisse pousser la barbe, non ?"
+  },
+  {
+    "en": "Those are the ugliest shoes I've ever seen.",
+    "fr": "Ce sont les chaussures les plus laides que j'ai jamais vues."
+  },
+  {
+    "en": "We don't talk about that here.",
+    "fr": "Nous ne parlons pas de cela ici."
+  },
+  {
+    "en": "Is Tom a Christian?",
+    "fr": "Tom est-il chrétien ?"
+  },
+  {
+    "en": "The older we grow, the poorer our memory becomes.",
+    "fr": "Plus on devient vieux, plus notre mémoire est défaillante."
+  },
+  {
+    "en": "I'm not certain that Tom likes that.",
+    "fr": "Je ne suis pas certain que Tom aime ça."
+  },
+  {
+    "en": "That isn't what I think.",
+    "fr": "Ce n'est pas ce que je pense."
+  },
+  {
+    "en": "She was always complaining about her husband.",
+    "fr": "Elle se plaignait tout le temps de son mari."
+  },
+  {
+    "en": "He is said to have died here.",
+    "fr": "On dit qu'il est mort ici."
+  },
+  {
+    "en": "Tom arrived too late.",
+    "fr": "Tom est arrivé trop tard."
+  },
+  {
+    "en": "Tom buttoned his coat.",
+    "fr": "Tom boutonna son manteau."
+  },
+  {
+    "en": "I'm not afraid of terrorists.",
+    "fr": "Je n'ai pas peur des terroristes."
+  },
+  {
+    "en": "The icy road sparkled in the sunlight.",
+    "fr": "La route verglacée scintillait au soleil."
+  },
+  {
+    "en": "How dare you hurt people this way!",
+    "fr": "Comment oses-tu blesser les gens de cette manière !"
+  },
+  {
+    "en": "Can I talk to you in private?",
+    "fr": "Est-ce que je peux te parler en privé ?"
+  },
+  {
+    "en": "I bought a house.",
+    "fr": "J'ai acheté une maison."
+  },
+  {
+    "en": "He will look after the cats for me while I'm abroad.",
+    "fr": "Il s'occupera des chats pour moi quand je serai à l'étranger."
+  },
+  {
+    "en": "Tom has a great car.",
+    "fr": "Tom a une superbe voiture."
+  },
+  {
+    "en": "You can leave now.",
+    "fr": "Tu peux partir maintenant."
+  },
+  {
+    "en": "I remember the first time that I met you.",
+    "fr": "Je me souviens de la première fois que je t'ai rencontré."
+  },
+  {
+    "en": "I'm just a little dizzy.",
+    "fr": "J'ai juste la tête qui tourne un peu."
+  },
+  {
+    "en": "We had fun yesterday.",
+    "fr": "On s'est bien amusé hier."
+  },
+  {
+    "en": "The contents of the letter were secret.",
+    "fr": "Le contenu de la lettre était secret."
+  },
+  {
+    "en": "They crossed the Atlantic Ocean.",
+    "fr": "Ils traversèrent l'océan Atlantique."
+  },
+  {
+    "en": "Tom couldn't eat solid food for a week.",
+    "fr": "Tom n'a pas pu manger des aliments solides durant une semaine."
+  },
+  {
+    "en": "We need to find it.",
+    "fr": "Nous devons le trouver."
+  },
+  {
+    "en": "I asked Tom if I could use his computer.",
+    "fr": "J'ai demandé à Tom si je pouvais utiliser son ordinateur."
+  },
+  {
+    "en": "I'll do that for you.",
+    "fr": "Je vais faire ça pour toi."
+  },
+  {
+    "en": "I asked Tom if he knew Mary.",
+    "fr": "J'ai demandé à Tom s'il connaissait Mary."
+  },
+  {
+    "en": "Tom cleaned the bathroom.",
+    "fr": "Tom nettoya la salle de bain."
+  },
+  {
+    "en": "That's a brilliant idea.",
+    "fr": "C'est une brillante idée."
+  },
+  {
+    "en": "We haven't said yes yet.",
+    "fr": "Nous n'avons pas encore dit oui."
+  },
+  {
+    "en": "Never tell me a lie again.",
+    "fr": "Ne me dis plus jamais de mensonge !"
+  },
+  {
+    "en": "There are a lot of kids on the playground.",
+    "fr": "Il y a beaucoup d'enfants dans la cour de récréation."
+  },
+  {
+    "en": "I had a lot of help.",
+    "fr": "J'ai été beaucoup aidé."
+  },
+  {
+    "en": "What happens if I say no?",
+    "fr": "Qu'est-ce qui se passe si je dis non?"
+  },
+  {
+    "en": "Making jewelry is a lot easier than it sounds like it would be.",
+    "fr": "Fabriquer de la joaillerie est beaucoup plus facile que ça n'en aurait l'air."
+  },
+  {
+    "en": "It seems that everyone's having fun.",
+    "fr": "On dirait que tout le monde s'amuse bien."
+  },
+  {
+    "en": "Why not try that delicious wine?",
+    "fr": "Pourquoi ne pas essayer ce vin délicieux ?"
+  },
+  {
+    "en": "How much distance have we covered?",
+    "fr": "Quelle distance avons-nous parcourue ?"
+  },
+  {
+    "en": "Why has it taken so long?",
+    "fr": "Pourquoi cela a-t-il pris tant de temps ?"
+  },
+  {
+    "en": "I'd rather do that tomorrow.",
+    "fr": "Je préférerais faire ça demain."
+  },
+  {
+    "en": "He was tired from his long walk.",
+    "fr": "Il était fatigué par sa longue marche."
+  },
+  {
+    "en": "If anyone here can help us, we'd appreciate it.",
+    "fr": "Si quiconque ici peut nous aider, nous en serions reconnaissants."
+  },
+  {
+    "en": "This job shouldn't take more than a couple of hours.",
+    "fr": "Ce boulot ne devrait pas prendre plus de deux heures."
+  },
+  {
+    "en": "He always takes sides with her.",
+    "fr": "Il se range toujours de son côté."
+  },
+  {
+    "en": "Are you really just giving it away?",
+    "fr": "Est-ce que t'es vraiment en train de l'offrir ?"
+  },
+  {
+    "en": "I wish that Tom was here to help us.",
+    "fr": "J'aimerais que Tom soit là pour nous aider."
+  },
+  {
+    "en": "I should've taken that more seriously.",
+    "fr": "J'aurais dû prendre ça plus au sérieux."
+  },
+  {
+    "en": "Please give me one last chance.",
+    "fr": "S'il te plaît, donne-moi une dernière chance."
+  },
+  {
+    "en": "I need to know what you know.",
+    "fr": "J'ai besoin de savoir ce que tu sais."
+  },
+  {
+    "en": "Why's everyone looking at me?",
+    "fr": "Pourquoi est-ce que tout le monde me regarde ?"
+  },
+  {
+    "en": "I don't ever want us to be apart.",
+    "fr": "Je ne veux jamais que nous soyons séparés."
+  },
+  {
+    "en": "Don't be so hard on yourself.",
+    "fr": "Ne sois pas si dur avec toi-même."
+  },
+  {
+    "en": "I don't like shellfish.",
+    "fr": "Je n'aime pas les coquillages."
+  },
+  {
+    "en": "Tom doesn't like chocolate.",
+    "fr": "Tom n'aime pas le chocolat."
+  },
+  {
+    "en": "Tom is sleeping in his bedroom.",
+    "fr": "Tom dort dans sa chambre."
+  },
+  {
+    "en": "It can't wait until tomorrow.",
+    "fr": "Ça ne peut pas attendre demain."
+  },
+  {
+    "en": "My house is near the church.",
+    "fr": "Ma maison est près de l'église."
+  },
+  {
+    "en": "We should be able to do a lot better than this next time.",
+    "fr": "Nous devrions être capables de faire beaucoup mieux que ça la prochaine fois."
+  },
+  {
+    "en": "He tied the world record for the hundred-meter breast-stroke.",
+    "fr": "Il a égalé le record du monde du cent mètres brasse."
+  },
+  {
+    "en": "Tom said he was glad he did that.",
+    "fr": "Tom dit qu'il était content d'avoir fait ça."
+  },
+  {
+    "en": "You've got the map upside down.",
+    "fr": "Tu as pris la carte à l'envers."
+  },
+  {
+    "en": "Why aren't you afraid?",
+    "fr": "Pourquoi n'as-tu pas peur ?"
+  },
+  {
+    "en": "What'll the weather be like tomorrow?",
+    "fr": "Comment sera le temps demain ?"
+  },
+  {
+    "en": "They have a problem.",
+    "fr": "Ils ont un problème."
+  },
+  {
+    "en": "I'll need at least three days to translate that thesis.",
+    "fr": "J'ai besoin d'au moins trois jours pour traduire cette thèse."
+  },
+  {
+    "en": "Children whose parents are rich do not know how to use money.",
+    "fr": "Les enfants dont les parents sont riches ne savent pas gérer leur argent."
+  },
+  {
+    "en": "Last week I was in Boston with my wife.",
+    "fr": "La semaine dernière, j'étais à Boston avec ma femme."
+  },
+  {
+    "en": "Tom is trying to provoke me.",
+    "fr": "Tom essaye de me provoquer."
+  },
+  {
+    "en": "Have you ever fixed your car by yourself?",
+    "fr": "As-tu jamais toi-même réparé ta voiture ?"
+  },
+  {
+    "en": "I bought a pair of scissors.",
+    "fr": "J'ai acheté une paire de ciseaux."
+  },
+  {
+    "en": "I want to eat a piece of cake.",
+    "fr": "Je veux manger une part de gâteau."
+  },
+  {
+    "en": "I made very short work of the big steak.",
+    "fr": "Je n'ai fait qu'une bouchée du gros steak."
+  },
+  {
+    "en": "I immediately regretted that decision.",
+    "fr": "J'ai immédiatement regretté cette décision."
+  },
+  {
+    "en": "The world seems to get smaller.",
+    "fr": "Le monde semble devenir plus petit."
+  },
+  {
+    "en": "I wasn't sure where I belonged.",
+    "fr": "Je ne savais pas bien où était ma place."
+  },
+  {
+    "en": "\"When will Tom get here?\" \"I really wish I knew.\"",
+    "fr": "\" Quand Tom arrivera-t-il ? \" \" Si seulement je le savais. \""
+  },
+  {
+    "en": "I can wait for you.",
+    "fr": "Je peux vous attendre."
+  },
+  {
+    "en": "I can't help you with that.",
+    "fr": "Je ne peux pas t'aider avec ça."
+  },
+  {
+    "en": "Please give me a call.",
+    "fr": "Appelle-moi s'il te plaît."
+  },
+  {
+    "en": "Children should play outside.",
+    "fr": "Les enfants devraient jouer à l'extérieur."
+  },
+  {
+    "en": "Why are you so interested?",
+    "fr": "Pourquoi es-tu si intéressé ?"
+  },
+  {
+    "en": "I'm scheduled to have lunch with him.",
+    "fr": "Il est prévu que je déjeune avec lui."
+  },
+  {
+    "en": "I know Tom is groggy.",
+    "fr": "Je sais que Tom est embrumé."
+  },
+  {
+    "en": "We have the same group of friends.",
+    "fr": "Nous avons le même groupe d'amis."
+  },
+  {
+    "en": "There are a lot of beautiful roses in our garden.",
+    "fr": "Il y a beaucoup de jolies roses dans notre jardin."
+  },
+  {
+    "en": "This river is shallow enough to wade to the other side.",
+    "fr": "La rivière est assez basse pour patauger jusqu'à l'autre rive."
+  },
+  {
+    "en": "We think you're right.",
+    "fr": "Nous pensons que tu as raison."
+  },
+  {
+    "en": "Can you decipher the message?",
+    "fr": "Peux-tu déchiffrer le message ?"
+  },
+  {
+    "en": "This machine is worthless.",
+    "fr": "Cette machine ne vaut pas un clou."
+  },
+  {
+    "en": "Am I the only one who agrees with you?",
+    "fr": "Suis-je le seul d'accord avec toi ?"
+  },
+  {
+    "en": "We're all going to die someday.",
+    "fr": "On va tous mourir un jour."
+  },
+  {
+    "en": "The mountains in the Himalayas are higher than those in the Andes.",
+    "fr": "Les montagnes de l'Himalaya sont plus hautes que celles des Andes."
+  },
+  {
+    "en": "I need a lamp.",
+    "fr": "J'ai besoin d'une lampe."
+  },
+  {
+    "en": "Lend me the binoculars so I can see it better.",
+    "fr": "Prête-moi les jumelles pour que je puisse mieux voir."
+  },
+  {
+    "en": "We need to be paid more.",
+    "fr": "Nous devons être mieux payés."
+  },
+  {
+    "en": "How are things at school?",
+    "fr": "Comment ça se passe, à l'école ?"
+  },
+  {
+    "en": "Tom is close to thirty.",
+    "fr": "Tom a environ trente ans."
+  },
+  {
+    "en": "No one I know can afford to eat out anymore.",
+    "fr": "Personne que je connaisse n'a plus les moyens de sortir manger."
+  },
+  {
+    "en": "What do you want from us?",
+    "fr": "Qu'attendez-vous de nous ?"
+  },
+  {
+    "en": "He secretly showed me her picture.",
+    "fr": "Il m'a montré sa photo en secret."
+  },
+  {
+    "en": "We like playing soccer.",
+    "fr": "Nous aimons jouer au football."
+  },
+  {
+    "en": "I'm playing the devil's advocate.",
+    "fr": "Je me fais l'avocat du diable."
+  },
+  {
+    "en": "There is an orange on the table.",
+    "fr": "Il y a une orange sur la table."
+  },
+  {
+    "en": "It is difficult for me to get up before six.",
+    "fr": "Il m'est difficile de me lever avant six heures."
+  },
+  {
+    "en": "Tom is at church right now.",
+    "fr": "Tom est à l'église en ce moment."
+  },
+  {
+    "en": "From the look of the sky, it may begin to snow tonight.",
+    "fr": "D'après l'aspect du ciel, il se peut qu'il se mette à neiger ce soir."
+  },
+  {
+    "en": "Would you mind telling me why you're here?",
+    "fr": "Voulez-vous bien me dire pourquoi vous êtes ici ?"
+  },
+  {
+    "en": "We have decisions to make.",
+    "fr": "Nous avons des décisions à prendre."
+  },
+  {
+    "en": "She went on with the work.",
+    "fr": "Elle poursuivit le travail."
+  },
+  {
+    "en": "You wanted me to get a job, so I did.",
+    "fr": "Tu voulais que je trouve un boulot, c'est ce que j'ai fait."
+  },
+  {
+    "en": "She is the one who took care of his wound.",
+    "fr": "Elle est celle qui a pris soin de sa blessure."
+  },
+  {
+    "en": "This wine is very expensive.",
+    "fr": "Ce vin coûte très cher."
+  },
+  {
+    "en": "I don't think you'd enjoy it.",
+    "fr": "Je ne pense pas que ça te plairait."
+  },
+  {
+    "en": "The bike screeched to a stop.",
+    "fr": "Le vélo s'arrêta en crissant."
+  },
+  {
+    "en": "We cross the railroad tracks every morning.",
+    "fr": "Nous traversons la voie ferrée chaque matin."
+  },
+  {
+    "en": "What would Tom do if he ever learned the truth?",
+    "fr": "Que ferais Tom si jamais il apprenait la vérité."
+  },
+  {
+    "en": "Old people deserve respect.",
+    "fr": "Les personnes âgées méritent du respect."
+  },
+  {
+    "en": "He's more than likely to be late.",
+    "fr": "Il est plus que probable qu'il sera en retard."
+  },
+  {
+    "en": "I want to talk with you.",
+    "fr": "Je veux m'entretenir avec toi."
+  },
+  {
+    "en": "Close your eyes, please.",
+    "fr": "Fermez les yeux, s'il vous plaît."
+  },
+  {
+    "en": "Do you have a bike?",
+    "fr": "Est-ce que tu as une bicyclette ?"
+  },
+  {
+    "en": "I know the song.",
+    "fr": "Je connais la chanson."
+  },
+  {
+    "en": "I wish I could buy a motorcycle.",
+    "fr": "J'aimerais pouvoir acheter une moto."
+  },
+  {
+    "en": "I'll be waiting for you at the usual place.",
+    "fr": "Je t'attendrai au même endroit que d'habitude."
+  },
+  {
+    "en": "He is more clever than I am.",
+    "fr": "Il est plus intelligent que moi."
+  },
+  {
+    "en": "She explained the matter to me.",
+    "fr": "Elle m'a expliqué l'affaire."
+  },
+  {
+    "en": "Well, how did it happen anyway?",
+    "fr": "Eh bien, comment est-ce arrivé, en définitive ?"
+  },
+  {
+    "en": "I want to know about you.",
+    "fr": "Je veux savoir des choses à votre propos."
+  },
+  {
+    "en": "The ice sheets are melting.",
+    "fr": "Les couches de glace fondent."
+  },
+  {
+    "en": "You're a wonderful guy.",
+    "fr": "Tu es une personne merveilleuse."
+  },
+  {
+    "en": "Tom is running for city council.",
+    "fr": "Tom est candidat aux municipales."
+  },
+  {
+    "en": "Why don't you see for yourself?",
+    "fr": "Pourquoi n'en juges-tu pas par toi-même ?"
+  },
+  {
+    "en": "That bridge isn't strong enough to support so much weight.",
+    "fr": "Ce pont n'est pas assez solide pour supporter un tel poids."
+  },
+  {
+    "en": "I woke up gasping for air.",
+    "fr": "Je me suis réveillé en suffoquant."
+  },
+  {
+    "en": "She agreed with my idea.",
+    "fr": "Elle a accepté mon idée."
+  },
+  {
+    "en": "Although most islands in the ocean have been mapped, the ocean floor is generally unknown.",
+    "fr": "Bien que la plupart des îles de l'océan aient été cartographiées, les fonds océaniques sont généralement inconnus."
+  },
+  {
+    "en": "Stay where you are. I'm on my way.",
+    "fr": "Reste là où tu te trouves. J'arrive."
+  },
+  {
+    "en": "We're better than they are.",
+    "fr": "Nous sommes meilleurs qu'eux."
+  },
+  {
+    "en": "There's really nothing more we can do.",
+    "fr": "Il n'y a vraiment rien de plus que nous pouvons faire."
+  },
+  {
+    "en": "I think I'll start with a bottle of beer.",
+    "fr": "Je pense que je vais commencer par une bouteille de bière."
+  },
+  {
+    "en": "What day is it today?",
+    "fr": "Quel jour sommes-nous aujourd'hui ?"
+  },
+  {
+    "en": "Everyone needs to quit whining.",
+    "fr": "Tout le monde doit arrêter de geindre."
+  },
+  {
+    "en": "Where did you see those women?",
+    "fr": "Où as-tu vu ces femmes ?"
+  },
+  {
+    "en": "Have you ever been diagnosed with high blood pressure?",
+    "fr": "Vous a-t-on déjà diagnostiqué une hypertension artérielle ?"
+  },
+  {
+    "en": "Who's that other guy?",
+    "fr": "C'est qui cet autre gars ?"
+  },
+  {
+    "en": "I don't know how it's going to end.",
+    "fr": "Je ne sais pas comment ça va se terminer."
+  },
+  {
+    "en": "Are you trying to be funny again?",
+    "fr": "Vous essayez de faire de l'humour ?"
+  },
+  {
+    "en": "You really are nuts.",
+    "fr": "Vous êtes vraiment cinglés."
+  },
+  {
+    "en": "Somebody caught me by the arm.",
+    "fr": "Quelqu'un me saisit par le bras."
+  },
+  {
+    "en": "I have nothing to write about.",
+    "fr": "Je n'ai rien à écrire."
+  },
+  {
+    "en": "A mirror reflects light.",
+    "fr": "Un miroir reflète la lumière."
+  },
+  {
+    "en": "Tom has decided to propose to Mary.",
+    "fr": "Tom a décidé de demander Marie en mariage."
+  },
+  {
+    "en": "I need some light.",
+    "fr": "J'ai besoin de lumière."
+  },
+  {
+    "en": "You don't give orders here.",
+    "fr": "Ce n'est pas toi qui commandes, ici !"
+  },
+  {
+    "en": "Tom couldn't get his shoes off.",
+    "fr": "Tom ne pouvait pas retirer ses chaussures."
+  },
+  {
+    "en": "The living room furniture was modern in style.",
+    "fr": "Le mobilier du salon était de style moderne."
+  },
+  {
+    "en": "This is the end of the world.",
+    "fr": "C'est la fin du monde."
+  },
+  {
+    "en": "Here's how it works.",
+    "fr": "Voilà comment ça fonctionne."
+  },
+  {
+    "en": "Which road should I take?",
+    "fr": "Quelle route dois-je prendre ?"
+  },
+  {
+    "en": "Is anyone coming besides your friends?",
+    "fr": "Quiconque vient-il en dehors de tes amis ?"
+  },
+  {
+    "en": "When is Tom coming?",
+    "fr": "Quand vient Tom ?"
+  },
+  {
+    "en": "Is this my wine?",
+    "fr": "Est-ce là mon vin ?"
+  },
+  {
+    "en": "He sold all that he owned.",
+    "fr": "Il vendit tout ce qu'il possédait."
+  },
+  {
+    "en": "I'm really pleased with my new car.",
+    "fr": "Je suis très content de ma nouvelle voiture."
+  },
+  {
+    "en": "We should keep our promise.",
+    "fr": "Nous devrions tenir notre promesse."
+  },
+  {
+    "en": "I had no idea you were so dedicated.",
+    "fr": "Je n'avais pas idée que tu étais si fervente."
+  },
+  {
+    "en": "Tom found an empty flask.",
+    "fr": "Tom a trouvé la gourde vide."
+  },
+  {
+    "en": "We must, first of all, be careful of our health.",
+    "fr": "Nous devons, avant tout, faire attention à notre santé."
+  },
+  {
+    "en": "I love Italian food.",
+    "fr": "J'adore la nourriture italienne."
+  },
+  {
+    "en": "I'm going to play tennis next Monday.",
+    "fr": "Je vais faire du tennis lundi prochain."
+  },
+  {
+    "en": "He asked a question about it.",
+    "fr": "Il a posé une question à ce sujet."
+  },
+  {
+    "en": "They belong to the chess club.",
+    "fr": "Ils appartiennent au club d'échecs."
+  },
+  {
+    "en": "I was hoping you could do it for me.",
+    "fr": "J'espérais que tu pourrais le faire pour moi."
+  },
+  {
+    "en": "I don't like your taste in colors.",
+    "fr": "Je n'aime pas tes goûts en matière de couleurs."
+  },
+  {
+    "en": "How about calling it a day?",
+    "fr": "Que diriez-vous d'arrêter pour aujourd'hui ?"
+  },
+  {
+    "en": "The dog kept on barking.",
+    "fr": "Le chien a continué à aboyer."
+  },
+  {
+    "en": "Maybe she won't come.",
+    "fr": "Peut-être qu'elle ne viendra pas."
+  },
+  {
+    "en": "We can't pretend that it didn't happen.",
+    "fr": "Nous ne pouvons pas prétendre que ça n'est pas arrivé."
+  },
+  {
+    "en": "Could you open this jar for me?",
+    "fr": "Peux-tu ouvrir ce pot pour moi ?"
+  },
+  {
+    "en": "I have bottled water.",
+    "fr": "J'ai de l'eau en bouteille."
+  },
+  {
+    "en": "All you have to do is press the button.",
+    "fr": "Tout ce que tu dois faire est d'appuyer sur le bouton."
+  },
+  {
+    "en": "I shouldn't have left you alone.",
+    "fr": "Je n'aurais pas dû te laisser seul."
+  },
+  {
+    "en": "Who wrote this letter?",
+    "fr": "Qui a écrit cette lettre ?"
+  },
+  {
+    "en": "It's imperative that we do this right away.",
+    "fr": "Il est impératif que nous le fassions immédiatement."
+  },
+  {
+    "en": "I'm smoking a Cuban cigar.",
+    "fr": "Je fume un cigare cubain."
+  },
+  {
+    "en": "I want to take advantage of it.",
+    "fr": "Je veux en tirer avantage."
+  },
+  {
+    "en": "He has no equal in the field of electronics.",
+    "fr": "Il n'a pas d'égal dans le domaine de l'électronique."
+  },
+  {
+    "en": "The boy took the radio apart.",
+    "fr": "L'enfant a démonté la radio."
+  },
+  {
+    "en": "I still need to deliver these packages.",
+    "fr": "Je dois toujours livrer ces colis."
+  },
+  {
+    "en": "The whole nation wants peace.",
+    "fr": "Toute la nation veut la paix."
+  },
+  {
+    "en": "I was thrown out of the house with everything I owned.",
+    "fr": "Je fus chassé de la maison avec tout ce que je possédais."
+  },
+  {
+    "en": "I am grateful to them.",
+    "fr": "Je leur suis reconnaissant."
+  },
+  {
+    "en": "He wanted to become a farmer.",
+    "fr": "Il voulait devenir agriculteur."
+  },
+  {
+    "en": "Eight plus one equals nine.",
+    "fr": "Huit plus un égale neuf."
+  },
+  {
+    "en": "That's something I can't control.",
+    "fr": "C'est quelque chose que je ne peux pas contrôler."
+  },
+  {
+    "en": "Mary's dress is older than mine.",
+    "fr": "La robe de Marie est plus vieille que la mienne."
+  },
+  {
+    "en": "Nobody hates my country.",
+    "fr": "Personne ne déteste mon pays."
+  },
+  {
+    "en": "Never hit a man who can fight back.",
+    "fr": "Ne frappez jamais un homme qui peut répliquer."
+  },
+  {
+    "en": "I would like to purchase some boots.",
+    "fr": "Je voudrais acheter quelques bottes."
+  },
+  {
+    "en": "He got his arm broken while he was playing soccer.",
+    "fr": "Il s'est cassé le bras en jouant au football."
+  },
+  {
+    "en": "She came to Japan for the purpose of studying Japanese.",
+    "fr": "Elle est venue au Japon dans le but d'étudier la langue japonaise."
+  },
+  {
+    "en": "I want everyone to hear what I have to say.",
+    "fr": "Je veux que tout le monde entende ce que j'ai à dire."
+  },
+  {
+    "en": "She's very afraid of snakes.",
+    "fr": "Elle a très peur des serpents."
+  },
+  {
+    "en": "He who only has a hammer in his toolbox sees all problems as nails.",
+    "fr": "Celui qui n'a qu'un marteau dans sa boîte à outils, voit tous les problèmes comme des clous."
+  },
+  {
+    "en": "She didn't like city life.",
+    "fr": "Vivre en ville ne lui plaisait pas."
+  },
+  {
+    "en": "We can't think about that now.",
+    "fr": "Nous ne pouvons pas penser à cela maintenant."
+  },
+  {
+    "en": "Now why would you go and do a stupid thing like that?",
+    "fr": "Maintenant, pourquoi irais-tu commettre une telle bêtise ?"
+  },
+  {
+    "en": "Every nation has its own myths.",
+    "fr": "Tous les pays ont leurs légendes."
+  },
+  {
+    "en": "Your CV has really impressed me.",
+    "fr": "Votre CV m'a vraiment impressionné."
+  },
+  {
+    "en": "Tom and Mary swam in the pond together.",
+    "fr": "Tom et Marie ont nagé ensemble dans l'étang."
+  },
+  {
+    "en": "The shirt you gave me fits perfectly.",
+    "fr": "La chemise que tu m'as offerte me va parfaitement."
+  },
+  {
+    "en": "He convinced us of her innocence.",
+    "fr": "Il nous a convaincus de son innocence."
+  },
+  {
+    "en": "Tom went on a business trip last week.",
+    "fr": "Tom est allé en voyage d'affaires la semaine dernière."
+  },
+  {
+    "en": "I'm not afraid of spiders.",
+    "fr": "Je n'ai pas peur des araignées."
+  },
+  {
+    "en": "He's the one who told me about that.",
+    "fr": "C'est lui qui m'a parlé de cela."
+  },
+  {
+    "en": "How long has it been since you received a letter from him?",
+    "fr": "Combien de temps s'est-il écoulé depuis que tu as reçu une lettre de lui ?"
+  },
+  {
+    "en": "They did not wish to become embroiled in the dispute.",
+    "fr": "Ils ne souhaitaient pas être impliqués dans le conflit."
+  },
+  {
+    "en": "They began a discussion.",
+    "fr": "Ils entamèrent une discussion."
+  },
+  {
+    "en": "Do you think this is real?",
+    "fr": "Penses-tu que ce soit vrai ?"
+  },
+  {
+    "en": "I ask a lot of questions.",
+    "fr": "Je pose beaucoup de questions."
+  },
+  {
+    "en": "Thanks for your contribution.",
+    "fr": "Merci de ta contribution."
+  },
+  {
+    "en": "The fender was badly dented.",
+    "fr": "L'aile était très cabossée."
+  },
+  {
+    "en": "We love going on picnics.",
+    "fr": "Nous adorons aller à des pique-niques."
+  },
+  {
+    "en": "Give me the bill, please.",
+    "fr": "J'aimerais la note, je vous prie."
+  },
+  {
+    "en": "I tried my best, but I still lost the race.",
+    "fr": "J'ai fait de mon mieux, mais j'ai tout de même perdu la course."
+  },
+  {
+    "en": "I applied for a job as a lifeguard at the community pool.",
+    "fr": "J'ai postulé comme sauveteur à la piscine municipale."
+  },
+  {
+    "en": "Aren't you a vegetarian?",
+    "fr": "N'es-tu pas végétarienne ?"
+  },
+  {
+    "en": "I'm glad you guys weren't here.",
+    "fr": "Je me réjouis que vous n'étiez pas ici."
+  },
+  {
+    "en": "I bought her a new car.",
+    "fr": "Je lui ai acheté une nouvelle voiture."
+  },
+  {
+    "en": "That accident is a very good example of what happens when you're not careful.",
+    "fr": "Cet accident est un très bon exemple de ce qui arrive si on n'est pas prudent."
+  },
+  {
+    "en": "This wasn't what I had in mind.",
+    "fr": "Ce n'était pas ce que j'avais en tête."
+  },
+  {
+    "en": "He is studying hard so that he can pass the examinations.",
+    "fr": "Il étudie dur pour passer les examens."
+  },
+  {
+    "en": "He expressed his belief in her honesty.",
+    "fr": "Il exprima sa foi en son honnêteté."
+  },
+  {
+    "en": "I just don't think this is funny.",
+    "fr": "Je ne pense simplement pas que ce soit drôle."
+  },
+  {
+    "en": "That was a funny joke.",
+    "fr": "C'était une blague drôle."
+  },
+  {
+    "en": "Selling newspapers isn't easy.",
+    "fr": "Vendre des journaux n'est pas facile."
+  },
+  {
+    "en": "I have the ace of spades.",
+    "fr": "J'ai l'as de pique."
+  },
+  {
+    "en": "I don't work on Mondays.",
+    "fr": "Le lundi je ne travaille pas."
+  },
+  {
+    "en": "Where are we now?",
+    "fr": "Où en sommes-nous maintenant ?"
+  },
+  {
+    "en": "Just do your job.",
+    "fr": "Fais simplement ton travail !"
+  },
+  {
+    "en": "I don't know how to fix this.",
+    "fr": "Je ne sais pas comment réparer ceci."
+  },
+  {
+    "en": "I'm not like most people.",
+    "fr": "Je ne suis pas comme la plupart des gens."
+  },
+  {
+    "en": "Selling cars is my business.",
+    "fr": "Vendre des voitures est mon travail."
+  },
+  {
+    "en": "Tom never came out of his coma.",
+    "fr": "Tom ne sortit jamais du coma."
+  },
+  {
+    "en": "Do you have any more?",
+    "fr": "En avez-vous davantage ?"
+  },
+  {
+    "en": "Tom knows that Mary is telling the truth.",
+    "fr": "Tom sait que Marie est en train de dire la vérité."
+  },
+  {
+    "en": "The door is now closed.",
+    "fr": "La porte est maintenant fermée."
+  },
+  {
+    "en": "I know you're going to say no.",
+    "fr": "Je sais que vous allez dire non."
+  },
+  {
+    "en": "Could I see you in private?",
+    "fr": "Pourrais-je te voir en privé ?"
+  },
+  {
+    "en": "\"Here's your confession.\" \"I'm not signing that.\"",
+    "fr": "\" Voici ton aveu. \" \" Je ne signerai pas ça. \""
+  },
+  {
+    "en": "I didn't come here for that reason.",
+    "fr": "Je ne suis pas venu ici pour cette raison."
+  },
+  {
+    "en": "I'm glad you're glad.",
+    "fr": "Je me réjouis de votre joie."
+  },
+  {
+    "en": "I think it just might work.",
+    "fr": "Je pense que ça pourrait fonctionner."
+  },
+  {
+    "en": "Put down your weapons!",
+    "fr": "Bas les armes !"
+  },
+  {
+    "en": "Can I see you a second outside?",
+    "fr": "Puis-je vous voir dehors une seconde ?"
+  },
+  {
+    "en": "It was a terrible day.",
+    "fr": "Ce fut un jour terrible."
+  },
+  {
+    "en": "That law is full of ambiguities.",
+    "fr": "La loi est pleine d'ambiguïtés."
+  },
+  {
+    "en": "What was wrong with that?",
+    "fr": "Quel était le problème ?"
+  },
+  {
+    "en": "I don't know exactly how or why that happened.",
+    "fr": "J'ignore exactement comment et pourquoi c'est arrivé."
+  },
+  {
+    "en": "There is no escape.",
+    "fr": "Il n'y a pas d'issue."
+  },
+  {
+    "en": "The dentist will see you only by appointment.",
+    "fr": "Le dentiste ne vous recevra que sur rendez-vous."
+  },
+  {
+    "en": "Seemingly impossible things sometimes happen.",
+    "fr": "Des choses apparemment impossibles arrivent parfois."
+  },
+  {
+    "en": "He's not stronger than me.",
+    "fr": "Il n'est pas plus fort que moi."
+  },
+  {
+    "en": "It's been taken care of.",
+    "fr": "On s'en est occupé."
+  },
+  {
+    "en": "If you're cold, maybe you should put more clothes on.",
+    "fr": "Si tu as froid, tu devrais peut-être t'habiller davantage."
+  },
+  {
+    "en": "Why are you out of breath?",
+    "fr": "Pourquoi es-tu à bout de souffle ?"
+  },
+  {
+    "en": "I'd do the same for you.",
+    "fr": "Je ferais la même chose pour toi."
+  },
+  {
+    "en": "The color is nice.",
+    "fr": "La couleur est belle."
+  },
+  {
+    "en": "I don't like the way he looks at you.",
+    "fr": "Je n'aime pas la façon qu'il a de te regarder."
+  },
+  {
+    "en": "The fog's very dense.",
+    "fr": "Le brouillard est très dense."
+  },
+  {
+    "en": "Your name is Tom, right?",
+    "fr": "Tu t'appelles Tom, n'est-ce pas ?"
+  },
+  {
+    "en": "You're going to miss me.",
+    "fr": "Je vais vous manquer."
+  },
+  {
+    "en": "We cleaned up our garden.",
+    "fr": "Nous avons mis en ordre notre jardin."
+  },
+  {
+    "en": "This book could be useful to you.",
+    "fr": "Ce livre pourrait t'être utile."
+  },
+  {
+    "en": "I think he's lying.",
+    "fr": "Je pense qu'il ment."
+  },
+  {
+    "en": "Tom is a journalist in Boston.",
+    "fr": "Tom est journaliste à Boston."
+  },
+  {
+    "en": "Tom didn't have to hide.",
+    "fr": "Tom n'avait pas à se cacher."
+  },
+  {
+    "en": "What is it you kids do?",
+    "fr": "Que faites-vous, les enfants ?"
+  },
+  {
+    "en": "Can I have a paper bag?",
+    "fr": "Puis-je avoir un sac en papier ?"
+  },
+  {
+    "en": "You don't have to be a genius to know who said that.",
+    "fr": "Tu n'as pas besoin d'être un génie pour savoir qui a dit ça."
+  },
+  {
+    "en": "We have an obligation to try.",
+    "fr": "Nous avons l'obligation d'essayer."
+  },
+  {
+    "en": "Do you know where they come from?",
+    "fr": "Savez-vous d'où ils viennent ?"
+  },
+  {
+    "en": "I don't earn all that much.",
+    "fr": "Je ne gagne pas tant que ça."
+  },
+  {
+    "en": "Mass production reduced the price of many goods.",
+    "fr": "La production en masse a réduit le prix de beaucoup de biens."
+  },
+  {
+    "en": "Everybody knows that Tom likes Mary.",
+    "fr": "Tout le monde sait que Tom aime Mary."
+  },
+  {
+    "en": "Is a tomato a fruit or a vegetable?",
+    "fr": "Est-ce qu'une tomate est un fruit ou un légume ?"
+  },
+  {
+    "en": "That's what smart people do.",
+    "fr": "C'est ce que les gens intelligents font."
+  },
+  {
+    "en": "She got me a tiny toy.",
+    "fr": "Elle m'a acheté un petit jouet."
+  },
+  {
+    "en": "A recent survey shows that the number of smokers is decreasing.",
+    "fr": "Un récent sondage montre que le nombre de fumeurs diminue."
+  },
+  {
+    "en": "That house is famous.",
+    "fr": "Cette maison est célèbre."
+  },
+  {
+    "en": "The rooms are all clean.",
+    "fr": "Les chambres sont toutes propres."
+  },
+  {
+    "en": "It's dark in here.",
+    "fr": "Il fait noir là-dedans."
+  },
+  {
+    "en": "He is not as tall as his brother.",
+    "fr": "Il n'est pas aussi grand que son frère."
+  },
+  {
+    "en": "There was nothing I could do to change it.",
+    "fr": "Il n'y avait rien que je puisse faire pour le changer."
+  },
+  {
+    "en": "It's a little difficult for me.",
+    "fr": "C'est un peu difficile pour moi."
+  },
+  {
+    "en": "When I was a child, the most painful time of the day was mealtime.",
+    "fr": "Lorsque j'étais enfant, le moment le plus douloureux de la journée était le moment du repas."
+  },
+  {
+    "en": "We're going to have an examination in English tomorrow.",
+    "fr": "Demain nous allons avoir une interrogation en anglais."
+  },
+  {
+    "en": "Tell us what you want and we'll try to get it for you.",
+    "fr": "Dis-nous ce que tu veux et nous tenterons de te l'obtenir."
+  },
+  {
+    "en": "I'm glad we didn't do that.",
+    "fr": "Je suis contente que nous n'ayons pas fait cela."
+  },
+  {
+    "en": "I didn't want to be disturbed.",
+    "fr": "Je ne voulais pas être dérangé."
+  },
+  {
+    "en": "What's the best way to learn a language?",
+    "fr": "Quelle est la meilleure façon d'apprendre une langue ?"
+  },
+  {
+    "en": "I know that I'm going to die.",
+    "fr": "Je sais que je vais mourir."
+  },
+  {
+    "en": "Sometimes it's better to lie.",
+    "fr": "Parfois, il vaut mieux mentir."
+  },
+  {
+    "en": "Why don't we share a room?",
+    "fr": "Pourquoi ne partageons-nous pas une pièce ?"
+  },
+  {
+    "en": "Smoking is really bad for your health.",
+    "fr": "Fumer est vraiment mauvais pour la santé."
+  },
+  {
+    "en": "I think that Tom needs your help.",
+    "fr": "Je pense que Tom a besoin de ton aide."
+  },
+  {
+    "en": "Maybe we should go to Boston.",
+    "fr": "Nous devrions peut-être aller à Boston."
+  },
+  {
+    "en": "I know Tom is a bit tipsy.",
+    "fr": "Je sais que Tom est un peu éméché."
+  },
+  {
+    "en": "I'm not in the mood.",
+    "fr": "Je ne suis pas d'humeur."
+  },
+  {
+    "en": "I don't know if it is true.",
+    "fr": "Je ne sais pas si c'est vrai."
+  },
+  {
+    "en": "We're not in school anymore.",
+    "fr": "Nous ne sommes plus à l'école."
+  },
+  {
+    "en": "Do I snore a lot?",
+    "fr": "Est-ce que je ronfle beaucoup ?"
+  },
+  {
+    "en": "How do you know what's real?",
+    "fr": "Comment savez-vous ce qui est réel ?"
+  },
+  {
+    "en": "Tom has to follow our rules.",
+    "fr": "Tom doit suivre nos règles."
+  },
+  {
+    "en": "Swing your arm back and forth.",
+    "fr": "Balancez votre bras d'avant en arrière."
+  },
+  {
+    "en": "How was your exam?",
+    "fr": "Comment s'est déroulé ton examen ?"
+  },
+  {
+    "en": "I stopped sending Christmas cards three years ago.",
+    "fr": "J'ai cessé d'envoyer des cartes de Noël il y a trois ans."
+  },
+  {
+    "en": "Not far from the village, a shell exploded.",
+    "fr": "Non loin du village, un obus explosa."
+  },
+  {
+    "en": "I'm tired of your comments.",
+    "fr": "J'en ai assez de tes remarques."
+  },
+  {
+    "en": "Do you know who said that?",
+    "fr": "Sais-tu qui a dit ça ?"
+  },
+  {
+    "en": "How was I dressed then? Do you remember?",
+    "fr": "Comment étais-je habillé alors ? Tu te souviens ?"
+  },
+  {
+    "en": "He set up his company that year.",
+    "fr": "Il a monté sa propre entreprise cette année là."
+  },
+  {
+    "en": "Get out if you can.",
+    "fr": "Sors, si tu peux !"
+  },
+  {
+    "en": "It's great working here.",
+    "fr": "C'est super de travailler ici."
+  },
+  {
+    "en": "I need some help here.",
+    "fr": "J'ai besoin d'un peu d'aide ici."
+  },
+  {
+    "en": "I'll send you my mother's recipe.",
+    "fr": "Je t'enverrai la recette de ma mère."
+  },
+  {
+    "en": "We have two unused rooms in our house.",
+    "fr": "Nous avons deux pièces inutilisées dans notre maison."
+  },
+  {
+    "en": "Aren't you too young for that job?",
+    "fr": "N'êtes-vous pas trop jeune pour ce travail ?"
+  },
+  {
+    "en": "Is that a bullet hole?",
+    "fr": "Est-ce un trou causé par une balle ?"
+  },
+  {
+    "en": "I don't need a lawyer.",
+    "fr": "Je n'ai pas besoin d'avocat."
+  },
+  {
+    "en": "Dinner will be ready by the time you have finished your work.",
+    "fr": "Le repas sera prêt d'ici que tu finisses ton travail."
+  },
+  {
+    "en": "There is a park near my house.",
+    "fr": "Il y a un parc près de chez moi."
+  },
+  {
+    "en": "I'm so tired I can hardly walk.",
+    "fr": "Je suis tellement fatigué que je peux à peine marcher."
+  },
+  {
+    "en": "The following images are not for the faint of heart.",
+    "fr": "Les images qui suivent ne sont pas faites pour les âmes sensibles."
+  },
+  {
+    "en": "I think that's a good sign.",
+    "fr": "Je pense que c'est un bon signe."
+  },
+  {
+    "en": "How did you meet your husband?",
+    "fr": "Comment as-tu rencontré ton mari ?"
+  },
+  {
+    "en": "She must have told a lie.",
+    "fr": "Elle doit avoir proféré un mensonge."
+  },
+  {
+    "en": "I am a gentleman's daughter.",
+    "fr": "Je suis la fille d'un gentilhomme."
+  },
+  {
+    "en": "She was at a loss for words to express her feeling.",
+    "fr": "Elle ne trouvait plus les mots pour exprimer ses sentiments."
+  },
+  {
+    "en": "Did you really give Tom a key to your apartment?",
+    "fr": "As-tu vraiment donné une clé de ton appartement à Tom ?"
+  },
+  {
+    "en": "Tom vanished without a trace.",
+    "fr": "Tom disparut sans laisser de traces."
+  },
+  {
+    "en": "His body was covered with brown fur.",
+    "fr": "Son corps était couvert d'une fourrure brune."
+  },
+  {
+    "en": "This article was written by a college professor.",
+    "fr": "Cet article a été écrit par un professeur d'université."
+  },
+  {
+    "en": "Did Tom say how long Mary would be in Boston?",
+    "fr": "Tom a-t-il dit combien de temps Mary serait à Boston ?"
+  },
+  {
+    "en": "The rumor that they would get married spread at once.",
+    "fr": "La rumeur selon laquelle ils se marieraient se répandit tout de suite."
+  },
+  {
+    "en": "They are both good students.",
+    "fr": "Ils sont tous deux bons élèves."
+  },
+  {
+    "en": "You didn't see anyone come in, did you?",
+    "fr": "Tu n'as vu personne entrer, n'est-ce pas ?"
+  },
+  {
+    "en": "I'm going to have to ask you to put your phone away.",
+    "fr": "Je vais devoir vous demander d'éloigner votre téléphone."
+  },
+  {
+    "en": "I reminded him to write to his mother soon.",
+    "fr": "Je lui ai rappelé d'écrire bientôt à sa mère."
+  },
+  {
+    "en": "Tom can teach French.",
+    "fr": "Tom peut enseigner le français."
+  },
+  {
+    "en": "I go to a restaurant every other day.",
+    "fr": "Je vais à un restaurant chaque autre jour."
+  },
+  {
+    "en": "Tom is dumb, but not that dumb.",
+    "fr": "Tom est stupide, mais pas si stupide."
+  },
+  {
+    "en": "We walked along the road.",
+    "fr": "Nous avons longé la route."
+  },
+  {
+    "en": "No one ever asked.",
+    "fr": "Personne ne demanda jamais."
+  },
+  {
+    "en": "Do you know how to ride a motorcycle?",
+    "fr": "Tu sais faire de la moto ?"
+  },
+  {
+    "en": "Put it on my bill.",
+    "fr": "Mettez-le sur mon compte !"
+  },
+  {
+    "en": "It happened to me, too.",
+    "fr": "Ça m'est arrivé à moi aussi."
+  },
+  {
+    "en": "You're in the right place.",
+    "fr": "Tu es au bon endroit."
+  },
+  {
+    "en": "Contributors can also remain anonymous.",
+    "fr": "Les contributeurs peuvent également rester anonymes."
+  },
+  {
+    "en": "I was ashamed of my behavior.",
+    "fr": "J'ai eu honte de mon comportement."
+  },
+  {
+    "en": "There's a party going on in the next room.",
+    "fr": "Une fête se déroule dans la pièce d'à côté."
+  },
+  {
+    "en": "Can you hear us?",
+    "fr": "Arrives-tu à nous entendre ?"
+  },
+  {
+    "en": "Don't walk home alone.",
+    "fr": "Ne rentre pas seul à la maison."
+  },
+  {
+    "en": "Why are you so nervous tonight?",
+    "fr": "Pourquoi es-tu aussi nerveux ce soir?"
+  },
+  {
+    "en": "I wish Tom could've come to my concert.",
+    "fr": "J'aurais voulu que Tom puisse venir à mon concert."
+  },
+  {
+    "en": "You can listen to anything you want.",
+    "fr": "Tu peux écouter tout ce que tu veux."
+  },
+  {
+    "en": "These shoes are killing me.",
+    "fr": "Ces chaussures me font souffrir le martyre."
+  },
+  {
+    "en": "They were in the right place at the right time.",
+    "fr": "Ils se trouvaient au bon endroit au bon moment."
+  },
+  {
+    "en": "He comes and sees me once in a while.",
+    "fr": "Il vient me voir de temps à autre."
+  },
+  {
+    "en": "The country is headed on the wrong track.",
+    "fr": "Le pays est sur la mauvaise pente."
+  },
+  {
+    "en": "You dropped your wallet.",
+    "fr": "Vous avez laissé tomber votre portefeuille."
+  },
+  {
+    "en": "Tom's bedroom door was closed.",
+    "fr": "La porte de la chambre de Tom était fermée."
+  },
+  {
+    "en": "We're both a lot older now.",
+    "fr": "Nous sommes tous les deux beaucoup plus âgés maintenant."
+  },
+  {
+    "en": "I have a spare key.",
+    "fr": "J'ai un double des clés."
+  },
+  {
+    "en": "I know almost nothing about you.",
+    "fr": "Je ne sais presque rien de toi."
+  },
+  {
+    "en": "It's not raining anymore.",
+    "fr": "Il ne pleut plus."
+  },
+  {
+    "en": "We had to call off the game because of rain.",
+    "fr": "Nous dûmes annuler la partie à cause de la pluie."
+  },
+  {
+    "en": "I don't have any pain.",
+    "fr": "Je ne ressens aucune douleur."
+  },
+  {
+    "en": "How could I resist?",
+    "fr": "Comment puis-je résister ?"
+  },
+  {
+    "en": "Start reading where you left off.",
+    "fr": "Commence à lire là où tu t'es arrêté."
+  },
+  {
+    "en": "Please put these flowers in the basket.",
+    "fr": "Veuillez mettre ces fleurs-ci dans la corbeille."
+  },
+  {
+    "en": "Put it there, not here.",
+    "fr": "Mets-le là, pas ici !"
+  },
+  {
+    "en": "Tom's book was translated into French.",
+    "fr": "Le livre de Tom a été traduit en français."
+  },
+  {
+    "en": "He walked across the street.",
+    "fr": "Il a traversé la rue."
+  },
+  {
+    "en": "He has a very interesting book.",
+    "fr": "Il détient un ouvrage très intéressant."
+  },
+  {
+    "en": "There used to be a bookstore on that corner.",
+    "fr": "Il y avait une librairie au coin."
+  },
+  {
+    "en": "I broke up with her.",
+    "fr": "J'ai rompu avec elle."
+  },
+  {
+    "en": "Where am I supposed to sleep?",
+    "fr": "Où suis-je censé dormir ?"
+  },
+  {
+    "en": "I'm sorry we can't stay any longer.",
+    "fr": "Je suis désolé, nous ne pouvons rester plus longtemps."
+  },
+  {
+    "en": "He caught a large trout.",
+    "fr": "Il captura une grosse truite."
+  },
+  {
+    "en": "We have to leave.",
+    "fr": "Nous devons y aller."
+  },
+  {
+    "en": "I don't wear shoes in my house.",
+    "fr": "Je ne porte pas de chaussures chez moi."
+  },
+  {
+    "en": "I'll make a few calls.",
+    "fr": "Je vais passer quelques coups de fil."
+  },
+  {
+    "en": "I don't want to be in pain.",
+    "fr": "Je ne veux pas souffrir."
+  },
+  {
+    "en": "My shirt is wool.",
+    "fr": "Ma chemise est en laine."
+  },
+  {
+    "en": "We don't need to do that today.",
+    "fr": "Nous n'avons pas besoin de faire ça aujourd'hui."
+  },
+  {
+    "en": "I've finished reading the book.",
+    "fr": "J'ai fini de lire ce livre."
+  },
+  {
+    "en": "He has played his card out of turn.",
+    "fr": "Il a joué sa carte sans attendre son tour."
+  },
+  {
+    "en": "Let's find out where else Tom went.",
+    "fr": "Tâchons de voir où d'autre Tom est allé."
+  },
+  {
+    "en": "I didn't walk for a year.",
+    "fr": "Je n'ai pas marché pendant un an."
+  },
+  {
+    "en": "She will be back within a week.",
+    "fr": "Elle sera de retour sous une semaine."
+  },
+  {
+    "en": "You can't mix oil and water.",
+    "fr": "On ne peut pas mélanger l'eau et l'huile."
+  },
+  {
+    "en": "I was in pretty bad shape.",
+    "fr": "J'étais dans un assez sale état."
+  },
+  {
+    "en": "He behaved like he was afraid.",
+    "fr": "Il s'est comporté comme s'il était effrayé."
+  },
+  {
+    "en": "Tom didn't know Mary.",
+    "fr": "Tom ne connaissait pas Mary."
+  },
+  {
+    "en": "I thought you liked me.",
+    "fr": "Je pensais que tu m'appréciais."
+  },
+  {
+    "en": "Small family farms were disappearing.",
+    "fr": "Les petites fermes familiales disparaissaient."
+  },
+  {
+    "en": "I can drive to Boston and back on one tank of gas.",
+    "fr": "Je peux rouler jusqu'à Boston et faire le retour avec un plein d'essence."
+  },
+  {
+    "en": "We have other priorities at the moment.",
+    "fr": "Nous avons d'autres priorités pour le moment."
+  },
+  {
+    "en": "I will do everything in my power.",
+    "fr": "Je ferai tout ce qui est en mon possible."
+  },
+  {
+    "en": "How can you tell good English from bad English?",
+    "fr": "Comment distingues-tu le bon anglais du mauvais anglais ?"
+  },
+  {
+    "en": "In fact, the opposite is more likely to occur.",
+    "fr": "En fait, l'inverse est davantage susceptible de se produire."
+  },
+  {
+    "en": "She's fond of taking pictures.",
+    "fr": "Elle aime prendre des photos."
+  },
+  {
+    "en": "You may pay in advance for your order.",
+    "fr": "Vous pouvez payer votre commande en avance."
+  },
+  {
+    "en": "You were the first girl I ever kissed.",
+    "fr": "Tu as été la première fille que j'ai embrassée."
+  },
+  {
+    "en": "It's an optical illusion.",
+    "fr": "C'est une illusion d'optique."
+  },
+  {
+    "en": "How late may I call you?",
+    "fr": "Jusqu'à quelle heure puis-je vous appeler ?"
+  },
+  {
+    "en": "That's all I can do right now.",
+    "fr": "C'est tout ce que je peux faire pour l'instant."
+  },
+  {
+    "en": "There's nothing more to be said.",
+    "fr": "Il n'y a rien de plus à dire."
+  },
+  {
+    "en": "Tom is an only child.",
+    "fr": "Tom est fils unique."
+  },
+  {
+    "en": "I'm selling my car at a loss.",
+    "fr": "Je vends ma voiture à perte."
+  },
+  {
+    "en": "Between you and me, Tom's idea doesn't appeal to me very much.",
+    "fr": "Entre toi et moi, l'idée de Tom ne m'attire pas beaucoup."
+  },
+  {
+    "en": "Our teacher sometimes speaks too fast.",
+    "fr": "Notre instituteur parle parfois trop vite."
+  },
+  {
+    "en": "Would you introduce yourself?",
+    "fr": "Voudrais-tu te présenter ?"
+  },
+  {
+    "en": "I don't have a cent.",
+    "fr": "Je n'ai pas un centime."
+  },
+  {
+    "en": "If you could manage to go camping with us, we'd be delighted.",
+    "fr": "Si vous faisiez en sorte de venir camper avec nous, nous serions ravis."
+  },
+  {
+    "en": "We've got bigger problems.",
+    "fr": "Nous avons des problèmes plus importants."
+  },
+  {
+    "en": "We want more food.",
+    "fr": "Nous voulons plus de nourriture."
+  },
+  {
+    "en": "Go change quickly or else I won't take you with me.",
+    "fr": "Vas te changer rapidement, sinon je ne t'emmène pas avec moi."
+  },
+  {
+    "en": "We should help the needy.",
+    "fr": "Nous devrions aider les gens dans le besoin."
+  },
+  {
+    "en": "We got a taxi so we wouldn't be late.",
+    "fr": "On a pris un taxi pour ne pas être en retard."
+  },
+  {
+    "en": "How many idioms have we studied so far?",
+    "fr": "Combien d'idiomes avons-nous étudiés jusqu'ici ?"
+  },
+  {
+    "en": "I would've appreciated a heads-up.",
+    "fr": "J'aurais apprécié qu'on me prévienne."
+  },
+  {
+    "en": "I hope that you feel better tomorrow.",
+    "fr": "J'espère que tu te sentiras mieux demain."
+  },
+  {
+    "en": "I wish you'd been there.",
+    "fr": "J'eusse aimé que vous fussiez là."
+  },
+  {
+    "en": "This plan is fool-proof.",
+    "fr": "Ce plan est infaillible."
+  },
+  {
+    "en": "The next sentence is false.",
+    "fr": "La phrase suivante est fausse."
+  },
+  {
+    "en": "I hope we can make it to your party.",
+    "fr": "J'espère que nous pourrons nous arranger pour venir à ta fête."
+  },
+  {
+    "en": "Let's open the box and see what's inside.",
+    "fr": "Ouvrons la boîte et voyons ce qu'il y a à l'intérieur."
+  },
+  {
+    "en": "She visits him quite often, but never stays very long.",
+    "fr": "Elle lui rend visite assez souvent, mais ne reste jamais très longtemps."
+  },
+  {
+    "en": "The pain of losing a child is indescribable.",
+    "fr": "La douleur de perdre un enfant est indescriptible."
+  },
+  {
+    "en": "The game has been postponed.",
+    "fr": "Le match a été reporté."
+  },
+  {
+    "en": "I need to iron this shirt.",
+    "fr": "Il faut que je repasse cette chemise."
+  },
+  {
+    "en": "The mosquitoes have disappeared.",
+    "fr": "Les moustiques ont disparu."
+  },
+  {
+    "en": "I'm invited to dinner this evening.",
+    "fr": "Je suis invité à dîner ce soir."
+  },
+  {
+    "en": "I gave up hope.",
+    "fr": "J'ai abandonné tout espoir."
+  },
+  {
+    "en": "Yesterday I got up early.",
+    "fr": "Hier, je me suis levé tôt."
+  },
+  {
+    "en": "Tom cheated on his girlfriend for months.",
+    "fr": "Tom a trompé sa petite amie durant des mois."
+  },
+  {
+    "en": "A right angle has ninety degrees.",
+    "fr": "Un angle droit mesure 90 degrés."
+  },
+  {
+    "en": "You've done a remarkable job.",
+    "fr": "Vous avez fait un travail remarquable."
+  },
+  {
+    "en": "French isn't that difficult.",
+    "fr": "Le français n'est pas si difficile."
+  },
+  {
+    "en": "Choose three books at random.",
+    "fr": "Choisis trois livres au hasard."
+  },
+  {
+    "en": "A girl should not sit with her legs crossed.",
+    "fr": "Une fille ne devrait pas s'asseoir les jambes croisées."
+  },
+  {
+    "en": "The computer is in the library.",
+    "fr": "L'ordinateur est à la bibliothèque."
+  },
+  {
+    "en": "Has anyone contacted you?",
+    "fr": "Quelqu'un vous a-t-il contacté ?"
+  },
+  {
+    "en": "I wonder if anybody knows how to do this.",
+    "fr": "Je me demande s'il y a quelqu'un qui sait faire ça."
+  },
+  {
+    "en": "The city is divided into ten administrative districts.",
+    "fr": "La ville est divisée en dix circonscriptions."
+  },
+  {
+    "en": "Back then it was different.",
+    "fr": "Les choses étaient différentes à cette époque."
+  },
+  {
+    "en": "You look really good.",
+    "fr": "Tu as l'air vraiment en forme."
+  },
+  {
+    "en": "Why are these so cheap?",
+    "fr": "Pourquoi sont-ils si bon marché ?"
+  },
+  {
+    "en": "Tom was very friendly.",
+    "fr": "Tom était très sympathique."
+  },
+  {
+    "en": "I was fined a dollar.",
+    "fr": "J'ai reçu une amende d'un dollar."
+  },
+  {
+    "en": "Mary is the most beautiful girl I know.",
+    "fr": "Mary est la plus belle fille que je connaisse."
+  },
+  {
+    "en": "Must this letter be written in English?",
+    "fr": "Est-ce que cette lettre doit être écrite en anglais ?"
+  },
+  {
+    "en": "I really like seafood.",
+    "fr": "J'aime beaucoup les fruits de mer."
+  },
+  {
+    "en": "I don't have to do that if I don't want to, do I?",
+    "fr": "Je n'ai pas à faire cela si je ne le veux pas, si ?"
+  },
+  {
+    "en": "They have no money.",
+    "fr": "Ils n'ont pas d'argent."
+  },
+  {
+    "en": "Is this a tax-free shop?",
+    "fr": "Est-ce un magasin détaxé ?"
+  },
+  {
+    "en": "I need to protect myself.",
+    "fr": "Il faut que je me protège."
+  },
+  {
+    "en": "Tom was playing golf that morning.",
+    "fr": "Tom jouait au golf ce matin là."
+  },
+  {
+    "en": "That auditorium holds two thousand people.",
+    "fr": "Cette salle peut accueillir deux mille personnes."
+  },
+  {
+    "en": "How tall is your youngest brother?",
+    "fr": "Quelle taille fait ton plus jeune frère ?"
+  },
+  {
+    "en": "This isn't a competition.",
+    "fr": "Ceci n'est pas un concours."
+  },
+  {
+    "en": "That's not supposed to happen.",
+    "fr": "Ce n'est pas supposé se produire."
+  },
+  {
+    "en": "I haven't ruled out doing that.",
+    "fr": "Je n'ai pas exclu de le faire."
+  },
+  {
+    "en": "A good medicine tastes bitter.",
+    "fr": "Un bon médicament a mauvais goût."
+  },
+  {
+    "en": "Tom wants to make everyone happy.",
+    "fr": "Tom veut rendre tout le monde heureux."
+  },
+  {
+    "en": "Do you want to say goodbye?",
+    "fr": "Veux-tu dire au revoir ?"
+  },
+  {
+    "en": "I can do that with my eyes closed.",
+    "fr": "Je peux faire ça les yeux fermés."
+  },
+  {
+    "en": "Tom needs to be medicated.",
+    "fr": "Tom a besoin d'être soigné."
+  },
+  {
+    "en": "I'm a stockholder in this company.",
+    "fr": "Je suis actionnaire de cette société."
+  },
+  {
+    "en": "I think the team is capable of more.",
+    "fr": "Je pense que l'équipe peut mieux faire."
+  },
+  {
+    "en": "I never knew my father.",
+    "fr": "Je n'ai jamais connu mon père."
+  },
+  {
+    "en": "Tom talked to Mary about her plans.",
+    "fr": "Tom parla à Marie de ses projets."
+  },
+  {
+    "en": "I've got something to say.",
+    "fr": "J'ai quelque chose à dire."
+  },
+  {
+    "en": "Did I mention I'm crazy?",
+    "fr": "Ai-je déjà mentionné que je suis fou ?"
+  },
+  {
+    "en": "Tom thought I was my brother.",
+    "fr": "Tom m'a pris pour mon frère."
+  },
+  {
+    "en": "Did you lose consciousness?",
+    "fr": "Avez-vous perdu connaissance ?"
+  },
+  {
+    "en": "That's pretty much all you need to know.",
+    "fr": "C'est à peu près tout ce qu'il vous faut savoir."
+  },
+  {
+    "en": "She tore the letter into pieces.",
+    "fr": "Elle déchira la lettre en morceaux."
+  },
+  {
+    "en": "Put a caption on this photo.",
+    "fr": "Mets une légende sur cette photo."
+  },
+  {
+    "en": "That was harder than I thought it would be.",
+    "fr": "C'était plus difficile que je pensais que ce serait."
+  },
+  {
+    "en": "Those children are waiting for their mother.",
+    "fr": "Ces enfants attendent leur mère."
+  },
+  {
+    "en": "I warned you once.",
+    "fr": "Je t'ai prévenu une fois."
+  },
+  {
+    "en": "How did you get into this line of work?",
+    "fr": "Comment avez-vous atterri dans ce métier ?"
+  },
+  {
+    "en": "I hope you have a good lawyer.",
+    "fr": "J'espère que tu as un bon avocat."
+  },
+  {
+    "en": "The boy is thirsty.",
+    "fr": "Le garçon a soif."
+  },
+  {
+    "en": "That's the hardest part.",
+    "fr": "C'est la partie la plus dure."
+  },
+  {
+    "en": "Sometimes we need to take a step back and think.",
+    "fr": "Parfois, nous devons reculer d'un pas et réfléchir."
+  },
+  {
+    "en": "I've asked you repeatedly not to do that.",
+    "fr": "Je vous ai demandé à maintes reprises de ne pas faire cela."
+  },
+  {
+    "en": "We ordered some new books from abroad.",
+    "fr": "Nous avons commandé des nouveaux livres de l'étranger."
+  },
+  {
+    "en": "Not all books are good books.",
+    "fr": "Tous les livres ne sont pas bons."
+  },
+  {
+    "en": "I quit smoking when I was diagnosed with cancer.",
+    "fr": "J'ai arrêté de fumer lorsqu'on m'a diagnostiqué un cancer."
+  },
+  {
+    "en": "I fully support your proposal.",
+    "fr": "Je soutiens complètement votre proposition."
+  },
+  {
+    "en": "Experience counts in this job.",
+    "fr": "L'expérience compte dans ce travail."
+  },
+  {
+    "en": "She thanked him for his help.",
+    "fr": "Elle le remercia pour son aide."
+  },
+  {
+    "en": "I didn't chicken out.",
+    "fr": "Je ne me suis pas dégonflé."
+  },
+  {
+    "en": "Copy what's on the blackboard into your notebook.",
+    "fr": "Recopie ce qui est au tableau dans ton cahier."
+  },
+  {
+    "en": "Tom is going home early today.",
+    "fr": "Tom rentre tôt à la maison aujourd'hui."
+  },
+  {
+    "en": "I have an old car.",
+    "fr": "J'ai une vieille voiture."
+  },
+  {
+    "en": "When do you go on vacation?",
+    "fr": "Quand pars-tu en vacances ?"
+  },
+  {
+    "en": "Do I have to change my diet?",
+    "fr": "Dois-je changer mon régime ?"
+  },
+  {
+    "en": "That doesn't work, does it?",
+    "fr": "Cela ne marche pas, n'est-ce pas ?"
+  },
+  {
+    "en": "I'm getting a bad feeling.",
+    "fr": "J'ai une mauvaise impression."
+  },
+  {
+    "en": "World War One had ended just 15 years earlier.",
+    "fr": "La première guerre mondiale s'était terminée juste quinze ans auparavant."
+  },
+  {
+    "en": "We considered the problem from all angles.",
+    "fr": "Nous avons étudié le problème sous tous les angles."
+  },
+  {
+    "en": "I want to move to the countryside.",
+    "fr": "Je veux déménager à la campagne."
+  },
+  {
+    "en": "I've made many mistakes in my life.",
+    "fr": "J'ai fait beaucoup d'erreurs dans ma vie."
+  },
+  {
+    "en": "Tom couldn't find a job that he liked in Boston, so he moved to Chicago.",
+    "fr": "Tom n'a pas pu trouver un travail qui lui plaise à Boston, alors il a déménagé à Chicago."
+  },
+  {
+    "en": "It's all over now.",
+    "fr": "Maintenant, tout est fini."
+  },
+  {
+    "en": "What do you think I'm thinking about?",
+    "fr": "À quoi crois-tu que je pense ?"
+  },
+  {
+    "en": "He lived in a town near by.",
+    "fr": "Il a vécu dans une ville pas loin."
+  },
+  {
+    "en": "We can always try.",
+    "fr": "On peut toujours essayer."
+  },
+  {
+    "en": "It's what I am.",
+    "fr": "C'est ce que je suis."
+  },
+  {
+    "en": "I knew you were there.",
+    "fr": "Je savais que tu étais là."
+  },
+  {
+    "en": "Whose ring is that?",
+    "fr": "À qui est cette bague ?"
+  },
+  {
+    "en": "Tom is very disappointed.",
+    "fr": "Tom est très déçu."
+  },
+  {
+    "en": "I don't think that this is an appropriate time to discuss this.",
+    "fr": "Je ne pense pas que ce soit un moment approprié pour discuter de cela."
+  },
+  {
+    "en": "The war had united the American people.",
+    "fr": "La guerre a unifié le peuple américain."
+  },
+  {
+    "en": "In most countries, teachers do not receive high wages.",
+    "fr": "Dans la plupart des pays, les enseignants ne perçoivent pas de salaires élevés."
+  },
+  {
+    "en": "Be careful. Don't throw away those papers.",
+    "fr": "Faites attention. Ne jetez pas ces papiers."
+  },
+  {
+    "en": "How could it have exploded?",
+    "fr": "Comment aurait-ce pu exploser ?"
+  },
+  {
+    "en": "The inspector arrived at the school late on Monday morning.",
+    "fr": "L'inspecteur est arrivé à l'école le lundi en fin de matinée."
+  },
+  {
+    "en": "I'm glad you brought this up.",
+    "fr": "Je suis heureux que tu aies mentionné cela."
+  },
+  {
+    "en": "They went on an expedition to the North Pole.",
+    "fr": "Ils partirent en expédition au pôle Nord."
+  },
+  {
+    "en": "A sponge absorbs liquids.",
+    "fr": "Une éponge absorbe du liquide."
+  },
+  {
+    "en": "All of the cake is gone.",
+    "fr": "Tout le gâteau est parti."
+  },
+  {
+    "en": "I think it would be hard to do that.",
+    "fr": "Je pense que ce serait difficile de faire ça."
+  },
+  {
+    "en": "I think I'm going to stay here.",
+    "fr": "Je pense que je vais rester ici."
+  },
+  {
+    "en": "I've decided not to sell my motorcycle.",
+    "fr": "J'ai décidé de ne pas vendre ma moto."
+  },
+  {
+    "en": "You'd better not go out today.",
+    "fr": "Tu ferais mieux de ne pas sortir aujourd'hui."
+  },
+  {
+    "en": "If you'd listen, you'd understand.",
+    "fr": "Si tu écoutais, tu comprendrais."
+  },
+  {
+    "en": "Tom and I'll help anyone who needs help.",
+    "fr": "Tom et moi aiderons quiconque à besoin d'aide."
+  },
+  {
+    "en": "Tom is wearing flip-flops.",
+    "fr": "Tom porte des tongs."
+  },
+  {
+    "en": "Your wheels are out of alignment. You need to take the car in for service.",
+    "fr": "Vos roues ont un défaut de parallélisme. Vous devez faire réviser la voiture."
+  },
+  {
+    "en": "We all have our orders.",
+    "fr": "Nous avons tous nos ordres."
+  },
+  {
+    "en": "She is a chatterbox.",
+    "fr": "C'est un moulin à parole."
+  },
+  {
+    "en": "Tom is in the church.",
+    "fr": "Tom est à l'église."
+  },
+  {
+    "en": "Thanks to all of you for coming.",
+    "fr": "Merci à tous d'être venus."
+  },
+  {
+    "en": "He died of old age two years ago.",
+    "fr": "Il est mort de vieillesse il y a deux ans."
+  },
+  {
+    "en": "Can I go outside?",
+    "fr": "Est-ce que je peux sortir dehors ?"
+  },
+  {
+    "en": "I had a little help from a friend.",
+    "fr": "J'ai reçu un peu d'aide d'un ami."
+  },
+  {
+    "en": "The wild boars devoured the acorns.",
+    "fr": "Les sangliers ont dévoré les glands."
+  },
+  {
+    "en": "Do you want me to come cook you something?",
+    "fr": "Veux-tu que je vienne te cuisiner quelque chose ?"
+  },
+  {
+    "en": "I met him on the street by chance.",
+    "fr": "Je l'ai rencontré par chance dans la rue."
+  },
+  {
+    "en": "Believe it or not, this woman has three kids.",
+    "fr": "Crois-le ou non, cette femme a trois enfants."
+  },
+  {
+    "en": "It was a great idea.",
+    "fr": "Ce fut une excellente idée."
+  },
+  {
+    "en": "Everyone had to start working.",
+    "fr": "Tout le monde dut se mettre à travailler."
+  },
+  {
+    "en": "The word has several meanings.",
+    "fr": "Le mot a plusieurs significations."
+  },
+  {
+    "en": "I almost stepped on a skunk last night.",
+    "fr": "J'ai failli marcher sur une moufette hier soir."
+  },
+  {
+    "en": "Do you really like it?",
+    "fr": "Aimes-tu réellement ça ?"
+  },
+  {
+    "en": "I spoke to my uncle on the telephone.",
+    "fr": "J'ai parlé à mon oncle au téléphone."
+  },
+  {
+    "en": "We were meant for each other.",
+    "fr": "Nous étions faits l'un pour l'autre."
+  },
+  {
+    "en": "Both Tom and Mary are teachers.",
+    "fr": "Tom et Marie sont tous deux des enseignants."
+  },
+  {
+    "en": "He had a good look at the papers.",
+    "fr": "Il regarda attentivement les papiers."
+  },
+  {
+    "en": "I was really late.",
+    "fr": "J'étais vraiment en retard."
+  },
+  {
+    "en": "You'd better put on a raincoat.",
+    "fr": "Tu ferais mieux de mettre un imperméable."
+  },
+  {
+    "en": "This knife has served me well.",
+    "fr": "Ce couteau m'a beaucoup servi."
+  },
+  {
+    "en": "The price was extremely high.",
+    "fr": "Le prix était très élevé."
+  },
+  {
+    "en": "We have the opposite problem.",
+    "fr": "Nous avons le problème inverse."
+  },
+  {
+    "en": "Not all cops are crooked.",
+    "fr": "Tous les flics ne sont pas véreux."
+  },
+  {
+    "en": "You can go or stay, as you wish.",
+    "fr": "Tu peux partir ou rester, comme tu le souhaites."
+  },
+  {
+    "en": "My father is in.",
+    "fr": "Papa est à la maison."
+  },
+  {
+    "en": "Some of my best friends are policemen.",
+    "fr": "Certains de mes meilleurs amis sont policiers."
+  },
+  {
+    "en": "I built a house within a stone's throw of the forest.",
+    "fr": "J'ai construit une maison à un jet de pierre de la forêt."
+  },
+  {
+    "en": "The server is down again.",
+    "fr": "Le serveur est encore en panne."
+  },
+  {
+    "en": "The hunter caught the fox.",
+    "fr": "Le chasseur prit le renard."
+  },
+  {
+    "en": "I have to get to the hospital.",
+    "fr": "Il faut que j'aille à l'hôpital."
+  },
+  {
+    "en": "Are you referring to me?",
+    "fr": "Est-ce que tu parles de moi ?"
+  },
+  {
+    "en": "I'd like to make a suggestion.",
+    "fr": "J'aimerais faire une suggestion."
+  },
+  {
+    "en": "I wish you both all the happiness in the world.",
+    "fr": "Je vous souhaite à tous les deux tout le bonheur du monde."
+  },
+  {
+    "en": "I'm now fairly certain.",
+    "fr": "Je suis à présent assez sûr."
+  },
+  {
+    "en": "I'm right in the middle of doing something.",
+    "fr": "Je suis en plein en train de faire quelque chose."
+  },
+  {
+    "en": "Are you going to eat those fries?",
+    "fr": "Vas-tu manger ces frites ?"
+  },
+  {
+    "en": "His little brother is a famous soccer player.",
+    "fr": "Son petit frère est un joueur de football célèbre."
+  },
+  {
+    "en": "He will be here soon.",
+    "fr": "Il sera bientôt là."
+  },
+  {
+    "en": "We're not doing anything wrong.",
+    "fr": "Nous ne faisons rien de mal."
+  },
+  {
+    "en": "You have a choice to make.",
+    "fr": "Vous avez un choix à faire."
+  },
+  {
+    "en": "You're even dumber than I am.",
+    "fr": "Tu es encore plus bête que moi."
+  },
+  {
+    "en": "She is determined to leave the company.",
+    "fr": "Elle est déterminée à quitter l'entreprise."
+  },
+  {
+    "en": "Show me what you've done so far.",
+    "fr": "Montre-moi ce que tu as fait pour l'instant."
+  },
+  {
+    "en": "It is high time we said good-bye.",
+    "fr": "Il est grand temps qu'on dise au revoir."
+  },
+  {
+    "en": "I haven't really made up my mind yet.",
+    "fr": "Je ne me suis pas vraiment encore décidé."
+  },
+  {
+    "en": "Please put it back in its place.",
+    "fr": "Veuillez le remettre à sa place, je vous prie."
+  },
+  {
+    "en": "It is not easy to learn a foreign language.",
+    "fr": "Il n'est pas facile d'apprendre une langue étrangère."
+  },
+  {
+    "en": "I know Tom is a doctor.",
+    "fr": "Je sais que Tom est médecin."
+  },
+  {
+    "en": "Thank you for doing that for me.",
+    "fr": "Merci de le faire à ma place."
+  },
+  {
+    "en": "He is playing music.",
+    "fr": "Il joue de la musique."
+  },
+  {
+    "en": "Her home is in the suburbs.",
+    "fr": "Sa maison est en banlieue."
+  },
+  {
+    "en": "She denied having been there.",
+    "fr": "Elle nia y avoir été."
+  },
+  {
+    "en": "Learning French is fun.",
+    "fr": "Apprendre le français est amusant."
+  },
+  {
+    "en": "Let's start with something simple.",
+    "fr": "Commençons par quelque chose de simple."
+  },
+  {
+    "en": "That may not be possible.",
+    "fr": "Il se peut que ce ne soit pas possible."
+  },
+  {
+    "en": "Is it the wrong thing to do?",
+    "fr": "Est-ce la mauvaise chose à faire ?"
+  },
+  {
+    "en": "I can't swim well.",
+    "fr": "Je ne nage pas très bien."
+  },
+  {
+    "en": "Tom took Mary in his arms and kissed her.",
+    "fr": "Tom a pris Marie dans ses bras et l'a embrassée."
+  },
+  {
+    "en": "I watch TV off and on.",
+    "fr": "Je regarde la télévision de temps en temps."
+  },
+  {
+    "en": "I'm amazed at his rapid progress in English.",
+    "fr": "Je suis stupéfait de son rapide progrès en anglais."
+  },
+  {
+    "en": "Why don't we go swimming?",
+    "fr": "Pourquoi n'allons-nous pas nager ?"
+  },
+  {
+    "en": "It was such a hard test that we did not have time to finish.",
+    "fr": "C'était un test si difficile que nous n'avons pas eu le temps de finir."
+  },
+  {
+    "en": "I have to leave now.",
+    "fr": "Il faut que j'y aille maintenant."
+  },
+  {
+    "en": "Can you translate that into French?",
+    "fr": "Peux-tu traduire ça en français ?"
+  },
+  {
+    "en": "Is that your cat?",
+    "fr": "Est-ce ton chat ?"
+  },
+  {
+    "en": "Where does this piece go?",
+    "fr": "Où cette pièce va-t-elle ?"
+  },
+  {
+    "en": "We found a body in the river.",
+    "fr": "On a retrouvé un corps dans la rivière."
+  },
+  {
+    "en": "I forgot what it's called.",
+    "fr": "J'ai oublié comment ça s'appelle."
+  },
+  {
+    "en": "I'm not concerned at all.",
+    "fr": "Je ne suis pas du tout inquiet."
+  },
+  {
+    "en": "This makes me nervous.",
+    "fr": "Ça me rend nerveux."
+  },
+  {
+    "en": "I think we need to postpone the meeting.",
+    "fr": "Je pense qu'il nous faut remettre la réunion."
+  },
+  {
+    "en": "I saw the girl swimming in the river.",
+    "fr": "J'ai vu la fillette en train de nager dans la rivière."
+  },
+  {
+    "en": "She argued with him about their children's education.",
+    "fr": "Elle se disputa avec lui au sujet de l'éducation de leurs enfants."
+  },
+  {
+    "en": "They attributed his bad manners to lack of training in childhood.",
+    "fr": "Ils ont mis ses mauvaises manières sur le compte d'un manque d'éducation dans son enfance."
+  },
+  {
+    "en": "This medicine will make you feel better.",
+    "fr": "Ce remède te fera te sentir mieux."
+  },
+  {
+    "en": "I took the liberty of calling her.",
+    "fr": "J'ai pris la liberté de l'appeler."
+  },
+  {
+    "en": "I know something's going on.",
+    "fr": "Je sais que quelque chose se passe."
+  },
+  {
+    "en": "The car wasn't making that noise before.",
+    "fr": "La voiture ne faisait pas ce bruit, avant."
+  },
+  {
+    "en": "I ran as fast as I could to catch up with her.",
+    "fr": "J'ai couru aussi vite que j'ai pu pour la rattraper."
+  },
+  {
+    "en": "Would you like to tell me something else?",
+    "fr": "Veux-tu me dire encore quelque chose ?"
+  },
+  {
+    "en": "I'm too tired to ride my bicycle back home.",
+    "fr": "Je suis trop fatigué pour rentrer chez moi en vélo."
+  },
+  {
+    "en": "The police were inquiring into the suspect's past.",
+    "fr": "La police enquêtait sur le passé du suspect."
+  },
+  {
+    "en": "I saw the children walk across the street.",
+    "fr": "Je vis les enfants traverser la rue."
+  },
+  {
+    "en": "Television is ruining family life.",
+    "fr": "La télé ruine la vie de famille."
+  },
+  {
+    "en": "They wanted to steal the car.",
+    "fr": "Ils voulaient voler la voiture."
+  },
+  {
+    "en": "She married a hotshot lawyer from New York.",
+    "fr": "Elle épousa un avocat new-yorkais de haut vol."
+  },
+  {
+    "en": "When did you buy this mayonnaise?",
+    "fr": "Quand as-tu acheté cette mayonnaise ?"
+  },
+  {
+    "en": "This is the largest dictionary there is in this library.",
+    "fr": "C'est le plus gros dictionnaire qu'il y a dans cette bibliothèque."
+  },
+  {
+    "en": "I don't think Tom knows much about Australia.",
+    "fr": "Je ne pense pas que Tom en sache beaucoup sur l'Australie."
+  },
+  {
+    "en": "How could Tom possibly win?",
+    "fr": "Comment pouvait gagner Tom ?"
+  },
+  {
+    "en": "We still have a few hours left.",
+    "fr": "Il nous reste encore quelques heures."
+  },
+  {
+    "en": "I don't really have a family.",
+    "fr": "Je n'ai pas vraiment de famille."
+  },
+  {
+    "en": "OK, let me see what I can do.",
+    "fr": "D'accord, je vais voir ce que je peux faire."
+  },
+  {
+    "en": "He found my bicycle.",
+    "fr": "Il a trouvé mon vélo."
+  },
+  {
+    "en": "I have a bruise on my left leg.",
+    "fr": "J'ai un bleu à la jambe gauche."
+  },
+  {
+    "en": "I'm not very eager to go.",
+    "fr": "Je n'ai pas trop envie d'y aller."
+  },
+  {
+    "en": "That organization is corrupt to its core.",
+    "fr": "Cette organisation est corrompue jusqu'à l'os."
+  },
+  {
+    "en": "Can I have another one?",
+    "fr": "Puis-je en avoir un autre ?"
+  },
+  {
+    "en": "If I were you, I would paint it blue.",
+    "fr": "Si j'étais toi, je le peindrais en bleu."
+  },
+  {
+    "en": "Fossil fuels are the main causes of global warming.",
+    "fr": "Les combustibles fossiles sont les principaux responsables du réchauffement climatique."
+  },
+  {
+    "en": "I ran the risk of losing my job to help her.",
+    "fr": "J'ai couru le risque de perdre mon travail pour l'aider."
+  },
+  {
+    "en": "We're having a good time.",
+    "fr": "Nous passons un bon moment."
+  },
+  {
+    "en": "I wanted my children to learn French.",
+    "fr": "Je voulais que mes enfants apprennent le français."
+  },
+  {
+    "en": "I just can't believe they're getting married.",
+    "fr": "Je n'arrive simplement pas à croire qu'ils se marient."
+  },
+  {
+    "en": "I don't know where I'd begin.",
+    "fr": "Je ne sais pas où je commencerais."
+  },
+  {
+    "en": "Our car broke down in the middle of the street.",
+    "fr": "Notre voiture est tombée en panne en plein milieu de la rue."
+  },
+  {
+    "en": "It isn't very hard.",
+    "fr": "Ce n'est pas très difficile."
+  },
+  {
+    "en": "No one is working here today, except Tom.",
+    "fr": "Personne ne travaille ici aujourd'hui à part Tom."
+  },
+  {
+    "en": "Are you ready to do that?",
+    "fr": "Es-tu prêt à faire ça ?"
+  },
+  {
+    "en": "You talk as if you knew everything.",
+    "fr": "Tu parles comme si tu savais tout."
+  },
+  {
+    "en": "What's it really about?",
+    "fr": "De quoi s'agit-il, en fait ?"
+  },
+  {
+    "en": "\"How are you?\" \"I am fine, thank you.\"",
+    "fr": "\" Comment allez-vous ? \" \" Je vais bien, merci. \""
+  },
+  {
+    "en": "Ferrets are playful and curious.",
+    "fr": "Les furets sont joueurs et curieux."
+  },
+  {
+    "en": "Is one thousand yen enough?",
+    "fr": "Mille yens sont-ils suffisants ?"
+  },
+  {
+    "en": "Please let go of my arm.",
+    "fr": "Lâche mon bras, je te prie."
+  },
+  {
+    "en": "I've never seen a house without a door.",
+    "fr": "Je n'ai jamais vu de maison sans porte."
+  },
+  {
+    "en": "I thought that you'd come today.",
+    "fr": "Je pensais que tu viendrais aujourd'hui."
+  },
+  {
+    "en": "I have to pay this bill by Monday.",
+    "fr": "Je dois payer cette facture avant lundi."
+  },
+  {
+    "en": "More and more people are falling behind in their mortgage payments.",
+    "fr": "De plus en plus de gens sont en rupture de paiement de leurs emprunts."
+  },
+  {
+    "en": "Show me where the pain is.",
+    "fr": "Montre-moi où tu as mal."
+  },
+  {
+    "en": "Tom is unlikely to want to do that again.",
+    "fr": "Tom ne voudra probablement pas le refaire."
+  },
+  {
+    "en": "What do you do here, Tom?",
+    "fr": "Tom, que fais-tu ici ?"
+  },
+  {
+    "en": "This country is poor in natural resources.",
+    "fr": "Ce pays est pauvre en ressources naturelles."
+  },
+  {
+    "en": "They don't take care of that dog.",
+    "fr": "Ils ne prennent pas soin de ce chien."
+  },
+  {
+    "en": "In case of fire, dial 119.",
+    "fr": "En cas d'incendie, composez le 119."
+  },
+  {
+    "en": "The baby was crying to be fed.",
+    "fr": "Le bébé pleurait pour qu'on le nourrisse."
+  },
+  {
+    "en": "You've been doing a good job.",
+    "fr": "Tu as fait du bon travail."
+  },
+  {
+    "en": "I want to apologize to all of you for what just happened.",
+    "fr": "Je veux présenter mes excuses à vous tous pour ce qui vient de se passer."
+  },
+  {
+    "en": "Does anyone in your close family have cancer?",
+    "fr": "Un membre de votre famille proche est-il atteint d'un cancer ?"
+  },
+  {
+    "en": "When did I tell you that?",
+    "fr": "Quand vous ai-je dit cela ?"
+  },
+  {
+    "en": "Please bring me a menu.",
+    "fr": "Apportez le menu, je vous prie !"
+  },
+  {
+    "en": "Tom cautiously opened the envelope.",
+    "fr": "Tom ouvrit l'enveloppe avec précaution."
+  },
+  {
+    "en": "Don't you find it interesting?",
+    "fr": "Ne le trouvez-vous pas intéressant ?"
+  },
+  {
+    "en": "The road runs along the river.",
+    "fr": "La route court au long de la rivière."
+  },
+  {
+    "en": "He put the luggage down.",
+    "fr": "Il posa les bagages."
+  },
+  {
+    "en": "I'm surprised Tom isn't happy here.",
+    "fr": "Je suis surpris que Tom ne soit pas heureux ici."
+  },
+  {
+    "en": "You can't swim, can you?",
+    "fr": "Vous ne pouvez pas nager, n'est-ce pas ?"
+  },
+  {
+    "en": "The service is fast.",
+    "fr": "Le service est rapide."
+  },
+  {
+    "en": "I know you're the boss.",
+    "fr": "Je sais que tu es le patron."
+  },
+  {
+    "en": "I'm sorry for interrupting.",
+    "fr": "Désolé de vous interrompre."
+  },
+  {
+    "en": "How many people were present at the meeting?",
+    "fr": "Combien de personnes étaient-elles présentes à la réunion ?"
+  },
+  {
+    "en": "They chartered a bus for the firm's outing.",
+    "fr": "Ils ont affrété un bus pour la sortie d'entreprise."
+  },
+  {
+    "en": "Tom is a teacher, and so am I.",
+    "fr": "Tom est professeur, et moi aussi."
+  },
+  {
+    "en": "You have to make a decision.",
+    "fr": "Tu dois prendre une décision."
+  },
+  {
+    "en": "Santa Claus comes to see us once a year.",
+    "fr": "Le Père Noël vient nous voir une fois par an."
+  },
+  {
+    "en": "We got many grapes.",
+    "fr": "Nous avons obtenu de nombreux raisins."
+  },
+  {
+    "en": "That song reminds me of my childhood.",
+    "fr": "Cette chanson me rappelle mon enfance."
+  },
+  {
+    "en": "The cow gave birth to a calf with two heads.",
+    "fr": "La vache mit bas un veau à deux têtes."
+  },
+  {
+    "en": "I'm sure Tom will know how to do it.",
+    "fr": "Je suis sûre que Tom saura comment faire."
+  },
+  {
+    "en": "We realized that today.",
+    "fr": "On s'en est rendu compte aujourd'hui."
+  },
+  {
+    "en": "The conference will end tomorrow.",
+    "fr": "La conférence finira demain."
+  },
+  {
+    "en": "I'm sorry that I haven't been able to be here for you.",
+    "fr": "Je suis désolé d'avoir été dans l'incapacité d'être là pour vous."
+  },
+  {
+    "en": "It's a difficult word to pronounce.",
+    "fr": "C'est un mot difficile à prononcer."
+  },
+  {
+    "en": "I'm afraid that I can't let you do that.",
+    "fr": "J'ai peur de ne pas pouvoir vous laisser faire cela."
+  },
+  {
+    "en": "Have you ever been tested for tuberculosis?",
+    "fr": "Avez-vous déjà subi un test de dépistage de la tuberculose ?"
+  },
+  {
+    "en": "He calculated the expenses.",
+    "fr": "Il a calculé les dépenses."
+  },
+  {
+    "en": "You should be in your room.",
+    "fr": "Tu devrais être dans ta chambre."
+  },
+  {
+    "en": "He has gone to Britain.",
+    "fr": "Il est parti en Grande-Bretagne."
+  },
+  {
+    "en": "Do you have something to do with that company?",
+    "fr": "Est-ce que tu as quelque chose à avoir avec cette entreprise ?"
+  },
+  {
+    "en": "These are stupid rules.",
+    "fr": "Ce sont des règles idiotes."
+  },
+  {
+    "en": "That isn't big enough.",
+    "fr": "Ce n'est pas assez grand."
+  },
+  {
+    "en": "Everything else is just filler.",
+    "fr": "Le reste n'est que remplissage."
+  },
+  {
+    "en": "You've got to try it.",
+    "fr": "Il faut que tu essaies ça."
+  },
+  {
+    "en": "I like rock music.",
+    "fr": "J'aime la musique rock."
+  },
+  {
+    "en": "I am going to go to America next year.",
+    "fr": "Je vais aller en Amérique l'année prochaine."
+  },
+  {
+    "en": "It seemed that he was short of money.",
+    "fr": "Il semblait qu'il manquait d'argent."
+  },
+  {
+    "en": "This is the real world.",
+    "fr": "C'est le monde réel."
+  },
+  {
+    "en": "I didn't hear a word of what Tom just said.",
+    "fr": "Je n'avais pas compris un mot de ce que John venait de dire."
+  },
+  {
+    "en": "You don't have any proof.",
+    "fr": "Tu n'as aucune preuve."
+  },
+  {
+    "en": "I'll finish it later.",
+    "fr": "Je le finirai plus tard."
+  },
+  {
+    "en": "They are to be married in June.",
+    "fr": "Ils doivent se marier en juin."
+  },
+  {
+    "en": "Do you play soccer every day?",
+    "fr": "Joues-tu au foot tous les jours ?"
+  },
+  {
+    "en": "If it snows on the mountain, it's cold in the valley.",
+    "fr": "S'il neige sur la montagne, il fait froid dans la vallée."
+  },
+  {
+    "en": "Tom is a gifted artist.",
+    "fr": "Tom est un artiste doué."
+  },
+  {
+    "en": "I have a friend whose wife is a pianist.",
+    "fr": "J'ai un ami dont la femme est pianiste."
+  },
+  {
+    "en": "I like the color of your shirt.",
+    "fr": "J'aime la couleur de ta chemise."
+  },
+  {
+    "en": "I went swimming in the river yesterday.",
+    "fr": "Hier, je suis allé nager dans la rivière."
+  },
+  {
+    "en": "Other fees may apply.",
+    "fr": "D'autres frais peuvent s'appliquer."
+  },
+  {
+    "en": "He doesn't have any friends to play with.",
+    "fr": "Il n'a pas d'ami avec qui jouer."
+  },
+  {
+    "en": "He added to his savings.",
+    "fr": "Il a augmenté son épargne."
+  },
+  {
+    "en": "Tom said he didn't feel like doing that today.",
+    "fr": "Tom a dit qu'il n'avait pas envie de faire ça aujourd'hui."
+  },
+  {
+    "en": "She recovered from her long illness.",
+    "fr": "Elle se remit de sa longue maladie."
+  },
+  {
+    "en": "I know Tom isn't guilty.",
+    "fr": "Je sais que Tom n'est pas coupable."
+  },
+  {
+    "en": "I now know this isn't true.",
+    "fr": "Je sais maintenant que ceci n'est pas vrai."
+  },
+  {
+    "en": "I will be very happy to accept your invitation.",
+    "fr": "Je serai très heureux d'accepter ton invitation."
+  },
+  {
+    "en": "The vote took place on May sixteenth.",
+    "fr": "L'élection a eu lieu le seize mai."
+  },
+  {
+    "en": "I interpreted her silence as a refusal.",
+    "fr": "J'ai interprété son silence comme un refus."
+  },
+  {
+    "en": "Where do you want us to go?",
+    "fr": "Où veux-tu que nous allions ?"
+  },
+  {
+    "en": "Tom makes more money than Mary.",
+    "fr": "Tom gagne plus d'argent que Mary."
+  },
+  {
+    "en": "I don't have time to waste.",
+    "fr": "Je n'ai pas de temps à perdre."
+  },
+  {
+    "en": "Tom has barely said a word all day.",
+    "fr": "Tom a à peine décroché un mot de toute la journée."
+  },
+  {
+    "en": "I heard it thunder in the distance.",
+    "fr": "Je l'ai entendu gronder au loin."
+  },
+  {
+    "en": "The TV program seemed very interesting.",
+    "fr": "Le programme télé semblait vraiment intéressant."
+  },
+  {
+    "en": "I don't think that you should've done that.",
+    "fr": "Je ne pense pas que tu aurais dû faire ça."
+  },
+  {
+    "en": "Other scientists are debating his theory about the disappearance of dinosaurs.",
+    "fr": "D'autres scientifiques débattent de sa théorie à propos de la disparition des dinosaures."
+  },
+  {
+    "en": "We stormed the enemy positions.",
+    "fr": "Nous avons pris d'assaut les positions ennemies."
+  },
+  {
+    "en": "This fish is delicious.",
+    "fr": "Ce poisson est délicieux."
+  },
+  {
+    "en": "He avenged his dead father.",
+    "fr": "Il a vengé son père défunt."
+  },
+  {
+    "en": "Tom lived in a small fishing village.",
+    "fr": "Thomas vivait dans un petit village de pêcheurs."
+  },
+  {
+    "en": "I don't believe in astrology.",
+    "fr": "Je ne crois pas à l'astrologie."
+  },
+  {
+    "en": "I'm so happy to see you again.",
+    "fr": "Je suis si heureux de te revoir."
+  },
+  {
+    "en": "Tell Tom it's an emergency.",
+    "fr": "Dis à Tom que c'est une urgence."
+  },
+  {
+    "en": "Do you think I'm stupid?",
+    "fr": "Vous me prenez pour un idiot ?"
+  },
+  {
+    "en": "He says that he has to go to Vienna the day after tomorrow.",
+    "fr": "Il dit qu'il doit se rendre à Vienne après-demain."
+  },
+  {
+    "en": "I heard that Tom was in Australia.",
+    "fr": "J'ai appris que Tom était en Australie."
+  },
+  {
+    "en": "I'll be back at seven o'clock.",
+    "fr": "Je serai de retour à sept heures."
+  },
+  {
+    "en": "I bought it yesterday.",
+    "fr": "Je l'ai acheté hier."
+  },
+  {
+    "en": "What do you do on Sundays?",
+    "fr": "Que fais-tu le dimanche ?"
+  },
+  {
+    "en": "I swim almost every day.",
+    "fr": "Je nage presque tous les jours."
+  },
+  {
+    "en": "I want to drink something cold.",
+    "fr": "Je veux boire quelque chose de frais."
+  },
+  {
+    "en": "Tom was already drunk.",
+    "fr": "Tom était déjà ivre."
+  },
+  {
+    "en": "He walked across the garden.",
+    "fr": "Il marcha à travers le jardin."
+  },
+  {
+    "en": "Move out of my way.",
+    "fr": "Sors de mon chemin !"
+  },
+  {
+    "en": "I stayed longer than I'd planned.",
+    "fr": "Je suis resté plus longtemps que je l'avais prévu."
+  },
+  {
+    "en": "Many countries depend on agriculture.",
+    "fr": "De nombreux pays dépendent de l'agriculture."
+  },
+  {
+    "en": "I totally believe you.",
+    "fr": "Je vous crois totalement."
+  },
+  {
+    "en": "Would you mind if I record this conversation?",
+    "fr": "Cela vous dérange si j'enregistre cette conversation ?"
+  },
+  {
+    "en": "I'm not going to let you boss me around.",
+    "fr": "Je ne vais pas te laisser me commander."
+  },
+  {
+    "en": "They fought the measures in the courts.",
+    "fr": "Ils ont combattu les mesures en justice."
+  },
+  {
+    "en": "The cold continued for three weeks.",
+    "fr": "Le froid continua pendant trois semaines."
+  },
+  {
+    "en": "This hill overlooks the city.",
+    "fr": "Cette colline surplombe la ville."
+  },
+  {
+    "en": "I see nothing wrong with it.",
+    "fr": "Je ne vois là rien de mal."
+  },
+  {
+    "en": "I heard a thump.",
+    "fr": "J'ai entendu un bruit sourd."
+  },
+  {
+    "en": "I couldn't help but smile.",
+    "fr": "Je ne pouvais m'empêcher de sourire."
+  },
+  {
+    "en": "I take that as a compliment.",
+    "fr": "Je prends cela comme un compliment."
+  },
+  {
+    "en": "I'm going to stop at the next rest stop.",
+    "fr": "Je vais m'arrêter à la prochaine aire de repos."
+  },
+  {
+    "en": "He bent over backward to please his wife.",
+    "fr": "Il s'est coupé en quatre pour faire plaisir à sa femme."
+  },
+  {
+    "en": "Tom wasn't the first person here.",
+    "fr": "Tom ne fut pas la première personne ici."
+  },
+  {
+    "en": "I was speaking to you.",
+    "fr": "C'est à toi que je parlais."
+  },
+  {
+    "en": "Let's have a game of tennis.",
+    "fr": "Faisons une partie de tennis."
+  },
+  {
+    "en": "\"I think we're lost.\" \"We might well be.\"",
+    "fr": "\" Je pense qu'on est perdus. \" \" C'est bien possible. \""
+  },
+  {
+    "en": "What should I give Tom for Christmas?",
+    "fr": "Que dois-je offrir à Tom pour Noël ?"
+  },
+  {
+    "en": "Happy St. Patrick's Day!",
+    "fr": "Joyeuse fête de la Saint-Patrick !"
+  },
+  {
+    "en": "I've got something to show you.",
+    "fr": "J'ai quelque chose à te montrer."
+  },
+  {
+    "en": "I wanted to speak to you about this.",
+    "fr": "Je voulais te parler à ce propos."
+  },
+  {
+    "en": "I forgot my password.",
+    "fr": "J'ai oublié mon mot de passe."
+  },
+  {
+    "en": "The telephone is ringing, but nobody is answering.",
+    "fr": "Le téléphone sonne mais personne ne répond."
+  },
+  {
+    "en": "I've already called for a tow truck.",
+    "fr": "J'ai déjà appelé une dépanneuse."
+  },
+  {
+    "en": "She didn't try to evade the truth.",
+    "fr": "Elle n'essaya pas de se dérober à la vérité."
+  },
+  {
+    "en": "You need to find another way out of this situation.",
+    "fr": "Tu dois trouver une autre issue à cette situation."
+  },
+  {
+    "en": "Tom works two jobs.",
+    "fr": "Tom a deux travails."
+  },
+  {
+    "en": "Are you involved in politics?",
+    "fr": "Êtes-vous impliqué dans la politique ?"
+  },
+  {
+    "en": "I bought nine flowers.",
+    "fr": "J'ai acheté neuf fleurs."
+  },
+  {
+    "en": "He landed a big trout.",
+    "fr": "Il remonta une grosse truite."
+  },
+  {
+    "en": "I hope you have an alibi.",
+    "fr": "J'espère que vous avez un alibi."
+  },
+  {
+    "en": "Don't put your elbows on the table.",
+    "fr": "Ne mets pas les coudes sur la table."
+  },
+  {
+    "en": "I'll ask my brother to give me a ride.",
+    "fr": "Je demanderai à mon frère de me conduire."
+  },
+  {
+    "en": "You shouldn't have gone to such a dangerous place.",
+    "fr": "Tu n'aurais pas dû aller à un endroit aussi dangereux."
+  },
+  {
+    "en": "Let's leave right away.",
+    "fr": "Partons tout de suite."
+  },
+  {
+    "en": "I'm in bad trouble.",
+    "fr": "J'ai de gros ennuis."
+  },
+  {
+    "en": "This is the reason why he did it.",
+    "fr": "C'est la raison pour laquelle il le fit."
+  },
+  {
+    "en": "Why aren't you answering me?",
+    "fr": "Pourquoi ne me réponds-tu pas ?"
+  },
+  {
+    "en": "Tom knows how to cook spaghetti.",
+    "fr": "Tom sait cuisiner les spaghettis."
+  },
+  {
+    "en": "Can you tell me what day it is today?",
+    "fr": "Tu peux me dire quel jour on est aujourd'hui ?"
+  },
+  {
+    "en": "Did you read the instructions?",
+    "fr": "As-tu lu les instructions ?"
+  },
+  {
+    "en": "She asked us several questions.",
+    "fr": "Elle nous a posé plusieurs questions."
+  },
+  {
+    "en": "My uncle has been diagnosed with leukemia.",
+    "fr": "On a posé à mon oncle le diagnostic de leucémie."
+  },
+  {
+    "en": "Tom is already in the pool.",
+    "fr": "Tom est déjà dans la piscine."
+  },
+  {
+    "en": "I think this is beside the point right now.",
+    "fr": "Je pense que c'est hors sujet, pour l'instant."
+  },
+  {
+    "en": "I know that I heard something.",
+    "fr": "Je sais que j'ai entendu quelque chose."
+  },
+  {
+    "en": "Tom told Mary that he didn't believe in astrology.",
+    "fr": "Tom a dit à Mary qu'il ne croyait pas à l'astrologie."
+  },
+  {
+    "en": "Tom goes to the barber less than four times a year.",
+    "fr": "Tom va chez le coiffeur moins de quatre fois par an."
+  },
+  {
+    "en": "He had three sons.",
+    "fr": "Il avait trois fils."
+  },
+  {
+    "en": "You should eat something a little more nutritious.",
+    "fr": "Tu devrais manger quelque chose d'un peu plus nutritif."
+  },
+  {
+    "en": "I have to do it today.",
+    "fr": "Je dois le faire aujourd'hui."
+  },
+  {
+    "en": "I don't usually stop if the light's yellow.",
+    "fr": "En général, je ne m'arrête pas si le feu est orange."
+  },
+  {
+    "en": "That's what I'm talking about.",
+    "fr": "C'est de ça que je parle."
+  },
+  {
+    "en": "I've never gotten a speeding ticket.",
+    "fr": "Je n'ai jamais eu de contravention pour excès de vitesse."
+  },
+  {
+    "en": "I have already eaten lunch.",
+    "fr": "J'ai déjà pris mon déjeuner."
+  },
+  {
+    "en": "It was when he was a child that he came to Japan.",
+    "fr": "C'est lorsqu'il était enfant qu'il est venu au Japon."
+  },
+  {
+    "en": "Tom and I've just gotten married.",
+    "fr": "Tom et moi venons de nous marier."
+  },
+  {
+    "en": "What's the worst movie you've ever seen?",
+    "fr": "Quel est le pire film que vous ayez jamais vu ?"
+  },
+  {
+    "en": "You aren't going, are you?",
+    "fr": "Tu n'y vas pas, si ?"
+  },
+  {
+    "en": "Let's throw all this stuff away.",
+    "fr": "Jetons tous ces trucs."
+  },
+  {
+    "en": "Have you ever loved anybody?",
+    "fr": "As-tu déjà aimé quelqu'un ?"
+  },
+  {
+    "en": "It's essential that we find them.",
+    "fr": "Il est vital que nous les trouvions."
+  },
+  {
+    "en": "Stock prices fell quickly.",
+    "fr": "Les prix des actions chutèrent rapidement."
+  },
+  {
+    "en": "I saw three sets of footprints in the snow from the road up to my front door.",
+    "fr": "J'ai vu trois groupes d'empreintes de pas dans la neige de la route jusqu'à ma porte d'entrée."
+  },
+  {
+    "en": "You look like you're happy.",
+    "fr": "Tu donnes l'impression d'être heureux."
+  },
+  {
+    "en": "Most girls think they're pretty.",
+    "fr": "La plupart des filles pensent qu'elles sont jolies."
+  },
+  {
+    "en": "I think that we're headed in the right direction.",
+    "fr": "Je pense que nous allons dans la bonne direction."
+  },
+  {
+    "en": "What is all this stuff?",
+    "fr": "C'est quoi, tous ces trucs ?"
+  },
+  {
+    "en": "I'll be at home tonight.",
+    "fr": "Je serai à la maison ce soir."
+  },
+  {
+    "en": "Do you like tennis?",
+    "fr": "Vous aimez le tennis ?"
+  },
+  {
+    "en": "Go and open the door.",
+    "fr": "Va ouvrir la porte."
+  },
+  {
+    "en": "I can now do that.",
+    "fr": "Je peux maintenant faire cela."
+  },
+  {
+    "en": "Because it was cold yesterday, I stayed home.",
+    "fr": "Comme il faisait froid hier, je suis resté chez moi."
+  },
+  {
+    "en": "I'm well aware of the danger.",
+    "fr": "Je suis bien conscient du danger."
+  },
+  {
+    "en": "England was invaded by the Danes.",
+    "fr": "L'Angleterre a été envahie par les Danois."
+  },
+  {
+    "en": "I want to personally thank you.",
+    "fr": "Je veux te remercier personnellement."
+  },
+  {
+    "en": "What languages are you studying?",
+    "fr": "Quelles langues étudies-tu ?"
+  },
+  {
+    "en": "We made it to the top of the mountain just in time to see the sunrise.",
+    "fr": "Nous sommes arrivés au sommet de la montagne juste à temps pour voir le lever du soleil."
+  },
+  {
+    "en": "Leave me alone or I'll call the police.",
+    "fr": "Laissez-moi tranquille ou j'appelle la police !"
+  },
+  {
+    "en": "The platypus, a small amphibious Australian mammal, is a very shy animal.",
+    "fr": "L'ornithorynque, un petit mammifère amphibie australien, est un animal très farouche."
+  },
+  {
+    "en": "There's nothing more important than friends.",
+    "fr": "Il n'y a rien de plus important que les amis."
+  },
+  {
+    "en": "Tom takes everything too seriously.",
+    "fr": "Tom prend tout trop au sérieux."
+  },
+  {
+    "en": "She's wearing high heels.",
+    "fr": "Elle porte des talons hauts."
+  },
+  {
+    "en": "Please don't interrupt me when I'm speaking.",
+    "fr": "Veuillez ne pas m'interrompre quand je parle."
+  },
+  {
+    "en": "You said you didn't care.",
+    "fr": "Tu as dit que tu ne t'en souciais pas."
+  },
+  {
+    "en": "I can't believe that I'm really here.",
+    "fr": "Je ne peux pas croire que je suis ici."
+  },
+  {
+    "en": "Tom thought it would be a good idea to see a doctor.",
+    "fr": "Tom a pensé que ce serait une bonne idée de voir un docteur."
+  },
+  {
+    "en": "I can't believe Tom did this.",
+    "fr": "Je ne peux pas croire que Tom ait fait cela."
+  },
+  {
+    "en": "He did exactly as I had told him.",
+    "fr": "Il a fait exactement ce que je lui ai dit de faire."
+  }
+]
